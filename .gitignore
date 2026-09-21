@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 密钥。绝对不能提交
+.env
+
+# 下载的原始资料和中间产物（体积大，而且别人可以自己下载）
+data/raw/
+data/interim/
+
+# macOS
+.DS_Store

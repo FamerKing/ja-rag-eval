@@ -1,0 +1,28 @@
+[project]
+name = "ja-rag-eval"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "FamerKing", email = "stxlhr@gmail.com" }
+]
+requires-python = ">=3.9"
+dependencies = [
+    "psycopg[binary]>=3.2",
+    "python-dotenv>=1.2.1",
+]
+
+[project.scripts]
+ja-rag-eval = "ja_rag_eval:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.2",
+]
+lint = [
+    "ruff>=0.16.8",
+]

@@ -1,0 +1,16 @@
+services:
+  db:                          # 服务名叫 db，后面用 docker compose logs db 之类引用它
+    build: .                   # 用当前目录的 Dockerfile 来构建镜像
+    environment:               # 传给容器的环境变量
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: ragdb       # 自动创建一个叫 ragdb 的数据库
+    ports:
+      - "5432:5432"            # 把容器的 5432 端口映射到 Mac 的 5432 端口
+    volumes:
+      # 数据目录持久化：容器删掉重建，数据还在
+      - pgdata:/var/lib/postgresql/data
+      # 把本地 sql 文件夹挂进容器的初始化目录，首次启动时会自动执行里面的 .sql
+      - ./sql:/docker-entrypoint-initdb.d:ro
+
+volumes:
+  pgdata:                      # 声明上面用到的这个具名数据卷
