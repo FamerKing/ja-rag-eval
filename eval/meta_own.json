@@ -1,0 +1,326 @@
+{
+  "own_0000": {
+    "question": "2008年にドナルド・E・ウェストレイクが亡くなった後、アビーに連絡を取ったテレビプロデューサーは誰ですか？",
+    "answer": "レス・アレキサンダー",
+    "qtype": "fact",
+    "verified": false
+  },
+  "own_0001": {
+    "question": "辛子味噌を詰めた蓮根は、揚げる前にどのくらい置いておく必要がありますか？",
+    "answer": "5時間以上",
+    "qtype": "fact",
+    "verified": false
+  },
+  "own_0002": {
+    "question": "朝日新聞の記事見出しで日本ダービーの呼称が使われていなかったのは、いつまでですか？",
+    "answer": "1949年まで",
+    "qtype": "conditional",
+    "verified": false
+  },
+  "own_0003": {
+    "question": "1960年代の『週刊少年マガジン』(講談社)に掲載され、怪奇系児童書の原点とされるシリーズは何ですか？",
+    "answer": "大伴昌司「大図解」シリーズ",
+    "qtype": "fact",
+    "verified": false
+  },
+  "own_0004": {
+    "question": "腰の怪我(腰椎分離症)を発症したために欠場した大会は何ですか？",
+    "answer": "中部選手権と全日本ノービス選手権",
+    "qtype": "conditional",
+    "verified": false
+  },
+  "own_0005": {
+    "question": "グラント・タワーの南側に続く厚いカーテンウォールが14世紀の控え壁である場合、その区域の中央部は何になっているか？",
+    "answer": "大ホール",
+    "qtype": "conditional",
+    "verified": false
+  },
+  "own_0006": {
+    "question": "ピセイドからレスベラトロールを作る際に用いられる生物は何ですか？",
+    "answer": "ニホンコウジカビ",
+    "qtype": "fact",
+    "verified": false
+  },
+  "own_0007": {
+    "question": "透明石膏、繊維石膏、雪花石膏について、それぞれの別名・英語名と形状上の特徴を整理して答えなさい。",
+    "answer": "透明石膏はセレナイト（selenite）で透明、繊維石膏はsatinsparで繊維状、雪花石膏はアラバスター（alabaster）で細かい粒状。",
+    "qtype": "table",
+    "verified": false
+  },
+  "own_0008": {
+    "question": "1909年にイスタンブールにいたアラブ人民族主義者の団体として挙げられている組織名は何ですか？",
+    "answer": "文学クラブ",
+    "qtype": "fact",
+    "verified": false
+  },
+  "own_0009": {
+    "question": "後ろ二つの円板をより精緻にする目的で列に関して同様の計算を行った場合、得られる円板は何か。",
+    "answer": "D ( 2 , 1.2 ) {\u001bdisplaystyle D(2,1.2)} と D ( − 11 , 2.2 ) {\u001bdisplaystyle D(-11,2.2)}",
+    "qtype": "conditional",
+    "verified": false
+  },
+  "own_0010": {
+    "question": "西部謙司がトータルフットボールの定義として挙げた条件はいくつあるか。",
+    "answer": "3",
+    "qtype": "entity_number",
+    "verified": false
+  },
+  "own_0011": {
+    "question": "ケーナで、いかにもケーナらしい哀愁を帯びた掠れた音色を重視する場合、どの材質を選ぶべきですか？",
+    "answer": "竹(バンブー材)",
+    "qtype": "conditional",
+    "verified": false
+  },
+  "own_0012": {
+    "question": "坂内がマキノトーキー製作所に第二期入社で参加したのは何年ですか。",
+    "answer": "1936年(昭和11年)",
+    "qtype": "entity_number",
+    "verified": false
+  },
+  "own_0013": {
+    "question": "1920年に市内で最も多くの社交クラブを持っていた民族集団は何団体あったか？",
+    "answer": "47",
+    "qtype": "entity_number",
+    "verified": false
+  },
+  "own_0014": {
+    "question": "アンティパトロスがアテナイとの和約で強いた内容を全て挙げてください。",
+    "answer": "寡頭制への交代、主戦論者の市民のトラキアへの強制移住、マケドニアの守備隊の受け入れ。",
+    "qtype": "table",
+    "verified": false
+  },
+  "own_0015": {
+    "question": "二種類の酸物質を仮に1 mol/L溶液同士で比較した場合、酸味の強さは係数kとどのように関係するか。",
+    "answer": "kが大きい酸ほど酸味が強い。",
+    "qtype": "table",
+    "verified": false
+  },
+  "own_0016": {
+    "question": "エリック・ジェイコブセンや香月勗による不斉エポキシ化反応で用いられる錯体の金属は何ですか？",
+    "answer": "マンガン",
+    "qtype": "fact",
+    "verified": false
+  },
+  "own_0017": {
+    "question": "史跡の北側約600mにある民家の敷地内の「蛭島碑記」は、地元の区誌ではどのような経緯で贈られたとされているか。",
+    "answer": "婿入りの引出物として韮山代官の江川家から贈られた。",
+    "qtype": "table",
+    "verified": false
+  },
+  "own_0018": {
+    "question": "ロケットマン結成時、ふかわが担当していた役割は何ですか？",
+    "answer": "コント担当",
+    "qtype": "table",
+    "verified": false
+  },
+  "own_0019": {
+    "question": "龍擡頭でその年の豊作を願う祝日とされたのは、旧暦何月何日ですか？",
+    "answer": "2月2日",
+    "qtype": "entity_number",
+    "verified": false
+  },
+  "own_0020": {
+    "question": "アメリカ合衆国で郷土料理とされる地域において、ステーキ・アンド・オイスター・パイの調理に用いられる肉の部位をすべて挙げてください。",
+    "answer": "ネック、トモバラ、モモ肉、ランプ",
+    "qtype": "multi_hop",
+    "verified": false
+  },
+  "own_0021": {
+    "question": "西山宗因が紀行文『宗因奥州紀行巻』で磐城平藩領に入っていると記したのは何世紀ですか？",
+    "answer": "17世紀",
+    "qtype": "entity_number",
+    "verified": false
+  },
+  "own_0022": {
+    "question": "武田幸男の実証的な研究によれば、辰王が担当していたのはどのような権能ですか？",
+    "answer": "政治的・軍事的活動とは異なる諸国間の調整を担当する特殊権能",
+    "qtype": "entity_number",
+    "verified": false
+  },
+  "own_0023": {
+    "question": "支払いをめぐる争いが法廷にもちこまれ、訴えられた者がまるくおさめようとして出す声は、どのように表現されるか？",
+    "answer": "「あれはチョークを食べたみたい」と表現される。",
+    "qtype": "conditional",
+    "verified": false
+  },
+  "own_0024": {
+    "question": "A3ミサイルがブースト段階における電磁パルスの影響から電子装置を守るために施された防護は、どのようなものですか？",
+    "answer": "限定的な防護",
+    "qtype": "conditional",
+    "verified": false
+  },
+  "own_0025": {
+    "question": "哺乳綱でマナティー科とホフマンナマケモノに共通している頚椎の数はいくつですか？",
+    "answer": "6個",
+    "qtype": "fact",
+    "verified": false
+  },
+  "own_0026": {
+    "question": "約6万5千年前の大噴火の頃までに形成された新しいカルデラにおいて、東側の外輪山とされた山々は何ですか？",
+    "answer": "浅間山-鷹巣山および屏風山",
+    "qtype": "fact",
+    "verified": false
+  },
+  "own_0027": {
+    "question": "ハイネの原作で舞台となっているスコットランドは何世紀のものですか？",
+    "answer": "18世紀",
+    "qtype": "entity_number",
+    "verified": false
+  },
+  "own_0028": {
+    "question": "パスハを伝統的に作る際に使われ、分解して洗うことが可能な木枠は何と呼ばれるか？",
+    "answer": "パソチニツァ",
+    "qtype": "fact",
+    "verified": false
+  },
+  "own_0029": {
+    "question": "馬の後ろに取り付けて地面を掻き出し、飛び上がったロッキートビバッタを捕獲する仕組みの耕作機の名称は何ですか？",
+    "answer": "ホッパードーザー",
+    "qtype": "table",
+    "verified": false
+  },
+  "own_0030": {
+    "question": "必須微量元素として挙げられている元素はいくつあるか。",
+    "answer": "9",
+    "qtype": "entity_number",
+    "verified": false
+  },
+  "own_0031": {
+    "question": "番組エンディングの風船がハート型となった後、2000年度以降の放送では、風船の柄には誰が描かれていたか？",
+    "answer": "ぐ〜チョコランタンの4人",
+    "qtype": "conditional",
+    "verified": false
+  },
+  "own_0032": {
+    "question": "足利尊氏が1336年に制定し、ばさらを禁止した幕府の施政方針を示す政綱の名称は何ですか？",
+    "answer": "建武式目",
+    "qtype": "table",
+    "verified": false
+  },
+  "own_0033": {
+    "question": "ナフサ法は、どのような性質の岩石を母岩とする場合に用いられる方法ですか？",
+    "answer": "比較的軟らかい岩石",
+    "qtype": "table",
+    "verified": false
+  },
+  "own_0034": {
+    "question": "11月に公的支援を求めてアメリカ議会の公聴会に出席した際、自家用ジェット機の使用を議員から批判されたのは誰ですか？",
+    "answer": "GM、フォード、クライスラーの各首脳",
+    "qtype": "conditional",
+    "verified": false
+  },
+  "own_0035": {
+    "question": "このタロットカードで絵を担当した人物は誰ですか？",
+    "answer": "コールマン・スミス",
+    "qtype": "fact",
+    "verified": false
+  },
+  "own_0036": {
+    "question": "「Re:Bornプロジェクト」と題した経営統合が行われたのは何年何月ですか？",
+    "answer": "2008年9月",
+    "qtype": "entity_number",
+    "verified": false
+  },
+  "own_0037": {
+    "question": "スロットルバルブが存在しない構造のエンジンでは、ブレーキブースター内に保持されるバキューム圧は何によって供給され、どのような配管と部品を経て保持されるか？",
+    "answer": "独立した真空ポンプによって供給され、半硬質のプラスチック製配管に沿ってブレーキブースターへ転送され、逆止弁によって内部に保持される。",
+    "qtype": "multi_hop",
+    "verified": false
+  },
+  "own_0038": {
+    "question": "創作の世界で、本来の義侠心を持つ侠客として主人公にされた人物は何人挙げられているか。",
+    "answer": "3人",
+    "qtype": "entity_number",
+    "verified": false
+  },
+  "own_0039": {
+    "question": "11月10日に山口へ到着した鎮静奉行は誰ですか？",
+    "answer": "毛利親直",
+    "qtype": "table",
+    "verified": false
+  },
+  "own_0040": {
+    "question": "スリヴェン市内でもっとも人が訪れ、多くの人を惹き付ける場所の最高地点の海抜は何mですか？",
+    "answer": "1,050m",
+    "qtype": "fact",
+    "verified": false
+  },
+  "own_0041": {
+    "question": "人々と神とをつなぐ役割を担う現人神が即位式で得て、その治世の神秘的な構成要素となった聖なる称号の総称は何か？",
+    "answer": "五重称号",
+    "qtype": "multi_hop",
+    "verified": false
+  },
+  "own_0042": {
+    "question": "ネカ美術館が1982年に公認を受けた際のインドネシア教育文化大臣は誰ですか？",
+    "answer": "ダウド・ジュスフ",
+    "qtype": "table",
+    "verified": false
+  },
+  "own_0043": {
+    "question": "夏の晴天時に、ニューヨークから50マイル以内の上空の色を観察する際、本文で示された厳密な条件を満たすためには、どのような方法で観察する必要がありますか？",
+    "answer": "午前10時から午後3時までの間、水蒸気や埃の影響の少ない大気の状態で、厚紙に1インチ四方の穴を開け、それを目から約30センチ離してかざし、その穴を通して観察する。",
+    "qtype": "conditional",
+    "verified": false
+  },
+  "own_0044": {
+    "question": "「桃郷(とうきょう)シンデレラ」はいつリリースされたか？",
+    "answer": "1994年7月21日",
+    "qtype": "fact",
+    "verified": false
+  },
+  "own_0045": {
+    "question": "ザリガニが江戸期に異称として呼ばれていた名称を2つ挙げてください。",
+    "answer": "フクガニ、イサリガニ",
+    "qtype": "entity_number",
+    "verified": false
+  },
+  "own_0046": {
+    "question": "1848年に発行された本書の英訳版で、「乱暴な狩人の話」はどのような題名に改められたか？",
+    "answer": "猟に出かけた男の話(\"The Story of the Man Who Went Out Shooting\")",
+    "qtype": "fact",
+    "verified": false
+  },
+  "own_0047": {
+    "question": "2009年2月末に契約満了に伴い、自ら設立した事務所へ移籍したのは誰ですか？",
+    "answer": "呉建豪",
+    "qtype": "entity_number",
+    "verified": false
+  },
+  "own_0048": {
+    "question": "先進国において通常、関税収入が国家収入に占める比率は何%以下とされているか。",
+    "answer": "5%以下",
+    "qtype": "table",
+    "verified": false
+  },
+  "own_0049": {
+    "question": "2018年にFord Maverickペダル車を製造したRogérioFerraresiが所在するブラジルの都市はどこですか？",
+    "answer": "サンパウロ市",
+    "qtype": "entity_number",
+    "verified": false
+  },
+  "own_0050": {
+    "question": "1950年代以降に「エキゾチカ」のスタンダードナンバーとなり、1962年にディック・デイル&デルトーンズによるサーフミュージックアレンジが全米でヒットした曲名は何ですか？",
+    "answer": "ミシルルー",
+    "qtype": "multi_hop",
+    "verified": false
+  },
+  "own_0051": {
+    "question": "水平式日時計は、太陽が出ている場合、1台で日の出から日没まで使用できるとされている。使用できる台数はいくつか？",
+    "answer": "1台",
+    "qtype": "entity_number",
+    "verified": false
+  },
+  "own_0052": {
+    "question": "優勝者に贈られる正賞は何ですか？",
+    "answer": "正賞CTC認定チャンピオンベルト",
+    "qtype": "fact",
+    "verified": false
+  },
+  "own_0053": {
+    "question": "寛永9年(1632年)に肥後国へ入った人物は誰ですか？",
+    "answer": "細川忠利",
+    "qtype": "fact",
+    "verified": false
+  }
+}
