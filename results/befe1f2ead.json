@@ -1,0 +1,37 @@
+{
+  "run_id": "befe1f2ead",
+  "at": "2026-09-26T16:06:17.558483+00:00",
+  "config": {
+    "corpus": "jqara-dev-300q-candidates",
+    "chunking": "c400 (upstream)",
+    "embedding": "cl-nagoya/ruri-v3-310m",
+    "retrieval": "dense-cosine",
+    "top_k": 20,
+    "keyword": null,
+    "rerank": null
+  },
+  "results": [
+    {
+      "tag": "jqara",
+      "n_queries": 300,
+      "scores": {
+        "recall@5": 0.9248333333333335,
+        "recall@20": 0.9909999999999999,
+        "ndcg@10": 0.9527748406143973,
+        "mrr@10": 0.9813333333333333,
+        "precision@3": 0.7933333333333333
+      }
+    },
+    {
+      "tag": "own_v1",
+      "n_queries": 54,
+      "scores": {
+        "recall@5": 0.8888888888888888,
+        "recall@20": 0.9444444444444444,
+        "ndcg@10": 0.8617755591297,
+        "mrr@10": 0.8410493827160493,
+        "precision@3": 0.29012345679012347
+      }
+    }
+  ]
+}
