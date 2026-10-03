@@ -1,0 +1,3502 @@
+{
+  "jqara_QA20CAPR-1006": {
+    "question": "『傘を持たない蟻たちは』『ピンクとグレー』などの小説を書いた、アイドルグループNEWSのメンバーは誰でしょう?",
+    "answers": [
+      "加藤シゲアキ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1011": {
+    "question": "大盛りにすると麺が伸びやすい細麺を提供するラーメン屋に多くみられる、麺のみを追加注文する方法を何というでしょう?",
+    "answers": [
+      "替え玉"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1015": {
+    "question": "星条旗といえばアメリカの国旗ですが、太極旗といえばどこの国旗でしょう?",
+    "answers": [
+      "大韓民国"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1018": {
+    "question": "英語では「コンセントレーション」や「メモリー」と呼ばれる、裏返したトランプを2枚ずつ表にして同じ数字なら獲得できるというルールのゲームは何でしょう?",
+    "answers": [
+      "神経衰弱"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1026": {
+    "question": "大きく「炊き込みご飯タイプ」と「汁かけご飯タイプ」に分けられる、アサリやハマグリなどの貝類を使った東京の郷土料理は何でしょう?",
+    "answers": [
+      "深川めし"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1027": {
+    "question": "公式名を「ツカハラ」という鉄棒の下り技のことを、「月面宙返り」を意味する和製英語で何というでしょう?",
+    "answers": [
+      "ムーンサルト"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1030": {
+    "question": "柳に飛びつこうとする蛙を見て努力の大切さを悟ったという逸話で有名な、「三蹟」のひとりに数えられる平安時代の書家は誰でしょう?",
+    "answers": [
+      "小野道風"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1034": {
+    "question": "中頭郡西原町に本部を置く、沖縄県にある唯一の国立大学は何でしょう?",
+    "answers": [
+      "琉球大学"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1044": {
+    "question": "『グリーンマイル』『シャイニング』『スタンド・バイ・ミー』といった映画の原作者である、アメリカの作家は誰でしょう?",
+    "answers": [
+      "スティーヴン・キング"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1054": {
+    "question": "徳川家康を祀る神社の総本社にあたる、「眠り猫」や「見ざる、言わざる、聞かざる」の彫刻も有名な、栃木県にある神社といえば何でしょう?",
+    "answers": [
+      "日光東照宮"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1070": {
+    "question": "北海道の都市で、札幌市に次いで人口が多いのはどこでしょう?",
+    "answers": [
+      "旭川市"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1074": {
+    "question": "リボルバー式の拳銃に一発だけ銃弾を入れ、自分の頭に向かって引き金を引く危険な遊びのことを、ある国の名前を使って何というでしょう?",
+    "answers": [
+      "ロシアンルーレット"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1082": {
+    "question": "一年の感謝を捧げたり、新年の無事を祈願したりするために、年が明けてから初めて神社や寺院などに参拝する行事を何というでしょう?",
+    "answers": [
+      "初詣"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1084": {
+    "question": "宮崎県串間市にある、野生の放牧馬「岬馬」でもおなじみの岬といえば何でしょう?",
+    "answers": [
+      "都井岬"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1086": {
+    "question": "2016年にテレビ番組『笑点』の6代目司会者に就任した落語家は誰でしょう?",
+    "answers": [
+      "春風亭昇太"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1089": {
+    "question": "個人が希望して、外国の国籍を取ることを、漢字二文字で何というでしょう?",
+    "answers": [
+      "帰化"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1091": {
+    "question": "欧米では「バウザー」という名前で呼ばれている、任天堂のゲーム『マリオ』シリーズに登場するマリオの宿敵といえば誰でしょう?",
+    "answers": [
+      "クッパ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1097": {
+    "question": "ジャズにおいて、「ルルル」や「ダバダバ」など、意味のない音でメロディを即興的に歌うことを何というでしょう?",
+    "answers": [
+      "スキャット"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1104": {
+    "question": "カロリーが高く、栄養の少ない食品のことを、「ガラクタ」という意味の英語で「何フード」というでしょう?",
+    "answers": [
+      "ジャンクフード"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1106": {
+    "question": "床を四角く切り取って灰を敷き詰めた、日本の家屋において屋内で火を起こすために設けられた一角を何というでしょう?",
+    "answers": [
+      "囲炉裏"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1118": {
+    "question": "2001年に古典部シリーズの第1作として刊行された米澤穂信の小説で、アニメ化された際にはシリーズ全体のタイトルに使われたのは何でしょう?",
+    "answers": [
+      "氷菓"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1126": {
+    "question": "小説『逆行』で第1回芥川賞の候補となっている、代表作に『斜陽』『人間失格』がある作家は誰でしょう?",
+    "answers": [
+      "太宰治"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1128": {
+    "question": "昭和期に日本のお菓子業界によって制定された、毎年3月14日にバレンタインデーのお返しをする日を何というでしょう?",
+    "answers": [
+      "ホワイトデー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1131": {
+    "question": "ゲーム『逆転裁判』シリーズの主人公である「なるほどくん」のフルネームは何でしょう?",
+    "answers": [
+      "成歩堂龍一"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1137": {
+    "question": "パチンコ・パチスロで、獲得した玉やメダルを入れておく容器のことを何というでしょう?",
+    "answers": [
+      "ドル箱"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1141": {
+    "question": "国司としての任地から京都へ戻るまでの旅路を女性の視点から描いた、平安時代の貴族・紀貫之の日記文学は何でしょう?",
+    "answers": [
+      "土佐日記"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1143": {
+    "question": "マ、オニ、リシリなどの種類がある、うまみ成分のグルタミン酸を豊富に含むことからだしを取るのに使われる海藻は何でしょう?",
+    "answers": [
+      "コンブ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1148": {
+    "question": "漁師が好んで食べ、あまりの美味しさに皿までなめてしまったことからその名がついたという、鯵などの刺身と味噌を合わせて叩いた料理を何と言うでしょう?",
+    "answers": [
+      "なめろう"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1153": {
+    "question": "「世界最大のオフィスビル」と呼ばれることもある、五角形の形をしたアメリカ国防総省の本庁舎のことを、一般に何というでしょう?",
+    "answers": [
+      "ペンタゴン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1165": {
+    "question": "本名を山下奉大という、「いやー、映画って本当にいいもんですね」という名ゼリフで知られた映画評論家は誰でしょう?",
+    "answers": [
+      "水野晴郎"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1166": {
+    "question": "日本語では「たんぱく石」と呼ばれる、10月の誕生石は何でしょう?",
+    "answers": [
+      "オパール"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1169": {
+    "question": "賭博の一種である3枚ガルタで、8、9、3の札が来ると最悪の手になることに由来する、現在では「ならず者」を指すようになった言葉は何でしょう?",
+    "answers": [
+      "ヤクザ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1176": {
+    "question": "卵から孵ったばかりのヒナが、最初に目にした動くものを自分の親だと思い込む本能のことを、一般に何というでしょう?",
+    "answers": [
+      "刷り込み"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1182": {
+    "question": "もともとはケンブリッジ大学ボート部のジャケットを指していたとする説もある、高校生の制服にも多く採用されている上着の種類といえば何でしょう?",
+    "answers": [
+      "ブレザー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1184": {
+    "question": "最後は五稜郭の戦いで戦死した、新撰組で「鬼の副長」と呼ばれた人物は誰でしょう?",
+    "answers": [
+      "土方歳三"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1185": {
+    "question": "イングランド・プレミアリーグに所属するトッテナムとアーセナルの対戦のことを、何ダービーというでしょう?",
+    "answers": [
+      "ノース・ロンドン・ダービー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1186": {
+    "question": "デビュー当時の女子高生の口癖にちなんで芸名がつけられた、『クイズプレゼンバラエティー Qさま!!』で司会を務めているタレントは誰でしょう?",
+    "answers": [
+      "優香"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1187": {
+    "question": "溶かして糸状にした砂糖を割りばしなどに絡めて作られる、縁日でよく売られるお菓子は何でしょう?",
+    "answers": [
+      "綿菓子"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1188": {
+    "question": "戦後間もない神戸・西宮を舞台に、親を亡くした清太と節子の兄妹が生き抜こうとする姿を描いた、野坂昭如の小説は何でしょう?",
+    "answers": [
+      "火垂るの墓"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1194": {
+    "question": "現地の言葉で「熱いソース」という意味がある、アンチョビやニンニクから作ったソースを温め、野菜を浸して食べるイタリア・ピエモンテ地方の料理は何でしょう?",
+    "answers": [
+      "バーニャ・カウダ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1204": {
+    "question": "サン・マルコ広場などの名所があるイタリアの都市で、市内に多くの運河が流れ、「水の都」と呼ばれるのはどこでしょう?",
+    "answers": [
+      "ヴェネツィア"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1205": {
+    "question": "「いちばん上に添えるもの」という意味の、ピザやアイスクリームなどの上にかけるものを何というでしょう?",
+    "answers": [
+      "トッピング"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1210": {
+    "question": "凸レンズは正、凹レンズは負で示される、眼鏡の度を表すのに用いられる レンズの屈折力の単位は何でしょう?",
+    "answers": [
+      "ディオプトリ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1215": {
+    "question": "陸上競技でクラウチングスタートをする際、足を掛けるために地面に設置する器具のことを何というでしょう?",
+    "answers": [
+      "スターティングブロック"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1216": {
+    "question": "アメリカのチャールズ・ダロウが考案した、「独占」という意味の名を持つボードゲームは何でしょう?",
+    "answers": [
+      "モノポリー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1217": {
+    "question": "癌などの悪性腫瘍が、血管やリンパ管を通って身体の別の場所に新しく腫瘍を作ることを何というでしょう?",
+    "answers": [
+      "転移"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1219": {
+    "question": "シザースジャンプ、ベリーロール、背面飛びといえば、陸上競技の何という種目で使われる跳び方でしょう?",
+    "answers": [
+      "走高跳"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1220": {
+    "question": "男性がたくさんの女性に囲まれて好かれている様子を、イスラム世界の王室の後宮に例えて何というでしょう?",
+    "answers": [
+      "ハレム"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1223": {
+    "question": "プッシュ、セーフティ、犠牲といった種類がある、野球でバットを横に構えてボールに当てるプレイのことを何というでしょう?",
+    "answers": [
+      "バント"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1224": {
+    "question": "中止になった1940年の東京五輪では組織委員長を務めていた、徳川宗家の16代当主に当たるため「十六代様」と呼ばれた人物は誰でしょう?",
+    "answers": [
+      "徳川家達"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1227": {
+    "question": "ドイツ人のルドルフ・ダスラーが創業した、あるネコ科の動物の名前が付いたスポーツウェアメーカーは何でしょう?",
+    "answers": [
+      "プーマ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1229": {
+    "question": "外国ではピットマン式やグレッグ式、日本では早稲田式や中根式が有名なものといえば何でしょう?",
+    "answers": [
+      "速記"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1234": {
+    "question": "香辛料が古くから薬に用いられていたとされたことから、唐辛子、山椒、生姜などの香辛料の総称として使われるようになった言葉は何でしょう?",
+    "answers": [
+      "薬味"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1246": {
+    "question": "早稲田大学のスクールカラーにもなっている、中国の紅花の一大産地にちなんだ名前を持つ濃い紅色は何でしょう?",
+    "answers": [
+      "えんじ色"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1249": {
+    "question": "『オルガス伯の埋葬』『受胎告知』などの作品で有名な、「ギリシャ人」という意味の名で呼ばれるスペインの画家は誰でしょう?",
+    "answers": [
+      "エル・グレコ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1250": {
+    "question": "本名を松尾昭という、「ハンドパワー」を使いこなすマジシャンは誰でしょう?",
+    "answers": [
+      "Mr.マリック"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1255": {
+    "question": "「うなぎと一緒に食べるとお腹を壊す」という迷信もある、おにぎりの中に入れたり弁当のご飯の上に乗せたりする食べ物は何でしょう?",
+    "answers": [
+      "梅干し"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1275": {
+    "question": "食材で、山くじらといえば猪の肉のことですが、山ふぐといえばどんなもののことでしょう?",
+    "answers": [
+      "コンニャク"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1278": {
+    "question": "首都圏に含まれるが、関東地方には含まれない唯一の都道府県はどこでしょう?",
+    "answers": [
+      "山梨県"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1289": {
+    "question": "これにより平家の滅亡が決定的となった、1185年に現在の山口県で起こった戦いは何でしょう?",
+    "answers": [
+      "壇ノ浦の戦い"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1292": {
+    "question": "65度から70度程度のお湯に30分ほど漬けることで作ることができる、黄身が半熟で白身が柔らかい状態の卵料理を何というでしょう?",
+    "answers": [
+      "温泉卵"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1294": {
+    "question": "小説『オズの魔法使い』で、カカシが欲しがったのは知恵ですが、ライオンが欲しがったのは何でしょう?",
+    "answers": [
+      "勇気"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1296": {
+    "question": "コクマル、ワタリ、ミヤマ、ハシブト、ハシボソなどの種類がいる、真っ黒い身体が特徴の鳥は何でしょう?",
+    "answers": [
+      "カラス"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1303": {
+    "question": "「小麦から作った甘い味噌」という意味がある、回鍋肉や北京ダックに用いられる中華料理の味噌といえば何でしょう?",
+    "answers": [
+      "甜麺醤"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1305": {
+    "question": "ゴルフで最初に打つショットはティーショットですが、ビリヤードでゲームの開始時に打つショットのことを何というでしょう?",
+    "answers": [
+      "ブレイクショット"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1307": {
+    "question": "パリの菓子店「ラデュレ」が発祥とされる、メレンゲから作った色鮮やかな生地でクリームなどを挟んだ、小さくてかわいらしい洋菓子は何でしょう?",
+    "answers": [
+      "マカロン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1311": {
+    "question": "1989年にプロレス団体「FMW」を旗揚げし、ノーロープ有刺鉄線電流爆破デスマッチなどの過激な試合により「デスマッチの教祖」の異名をとった元プロレスラーは誰でしょう?",
+    "answers": [
+      "大仁田厚"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1313": {
+    "question": "17か国もの国々が独立したことから「アフリカの年」と呼ばれているのは、西暦何年でしょう?",
+    "answers": [
+      "1960年"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1319": {
+    "question": "1995年に福武書店から現在の名前に改名された、「進研模試」や「進研ゼミ」を手がけている企業はどこでしょう?",
+    "answers": [
+      "ベネッセコーポレーション"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1320": {
+    "question": "英語では「フィギュアフォー・レッグロック」という、技をかけられた相手の両足がある数字に見えることから名が付いたプロレスの関節技は何でしょう?",
+    "answers": [
+      "足4の字固め"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1322": {
+    "question": "「リポビタンD」を発売している製薬会社はどこでしょう?",
+    "answers": [
+      "大正製薬"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1331": {
+    "question": "アレキサンダー大王の東方遠征により起こった、東方文化との融合により生まれたギリシャの文化のことを何というでしょう?",
+    "answers": [
+      "ヘレニズム"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1334": {
+    "question": "クリスマスの中でも特に、雪が積もるクリスマスを、ある色を使って何というでしょう?",
+    "answers": [
+      "ホワイトクリスマス"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1338": {
+    "question": "銀閣寺を築くなど東山文化を推進したことで知られる、室町幕府の第8代将軍は誰でしょう?",
+    "answers": [
+      "足利義政"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1341": {
+    "question": "自動車レース場ではピットの裏にあるスペース、競馬場ではでレースの前に競走馬を見る場所のことをさす言葉は何でしょう?",
+    "answers": [
+      "パドック"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1342": {
+    "question": "犯罪が起こったときに現場に不在だったという事実を証明することを、ラテン語に由来する言葉で何というでしょう?",
+    "answers": [
+      "アリバイ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1343": {
+    "question": "英語では「government party」という、政権の運営を担当している政党のことを何というでしょう?",
+    "answers": [
+      "与党"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1351": {
+    "question": "フランス語で「猫の舌」という意味があるお菓子で、銘菓「白い恋人」ではこれでホワイトチョコレートを挟んでいるのは何でしょう?",
+    "answers": [
+      "ラング・ド・シャ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1352": {
+    "question": "ローラーコースターやスペースショットなどのアトラクションがある、1853年開園と日本一古いとされる浅草の遊園地は何でしょう?",
+    "answers": [
+      "浅草花やしき"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1360": {
+    "question": "夏ならばウチワやかき氷などがそれに当たる、その季節をより意識づける物事を、「風」という漢字を使った三文字熟語で何というでしょう?",
+    "answers": [
+      "風物詩"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1362": {
+    "question": "スワヒリ語の「組み立てる」という言葉が語源である、タワー状に積み上げた直方体のパーツを抜き取って上に乗せていくゲームは何でしょう?",
+    "answers": [
+      "ジェンガ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1376": {
+    "question": "1948年に開館された、日本で発行されたすべての書物が収蔵されている図書館といえば何でしょう?",
+    "answers": [
+      "国立国会図書館"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1378": {
+    "question": "自分以外の時間を止めるスタンド「ザ・ワールド」を使用する、漫画『ジョジョの奇妙な冒険』シリーズに登場する敵キャラクターは誰でしょう?",
+    "answers": [
+      "ディオ・ブランドー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1393": {
+    "question": "古舘春一の漫画『ハイキュー!!』は、どんなスポーツを題材にしているでしょう?",
+    "answers": [
+      "バレーボール"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1395": {
+    "question": "落語家が高座に上がる時に演奏される音楽のことを、漢字3文字で何というでしょう?",
+    "answers": [
+      "出囃子"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1400": {
+    "question": "1947年に「麹町区」と「神田区」が合併して誕生し、江戸城の別名から命名された東京23区のひとつは何でしょう",
+    "answers": [
+      "千代田区"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1401": {
+    "question": "暑中見舞いから残暑見舞いに挨拶を変える基準となる、二十四節季の一つは何でしょう?",
+    "answers": [
+      "立秋"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1408": {
+    "question": "元々は歌舞伎の大道具を後ろに倒して次の場面に転換する仕掛けを指した言葉で、現在では物事が逆転することを指すのは何でしょう?",
+    "answers": [
+      "どんでん返し"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1409": {
+    "question": "父親の正煕も大統領経験者である、韓国初の女性大統領となった人物は誰でしょう?",
+    "answers": [
+      "朴槿恵"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1411": {
+    "question": "狂言の二大流派といえば、大蔵流と何流でしょう?",
+    "answers": [
+      "和泉流"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1412": {
+    "question": "火山の噴火や隕石の衝突によって出来る、地表面の大きなくぼみのことを何というでしょう?",
+    "answers": [
+      "クレーター"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1417": {
+    "question": "フランス語の「2」を意味する表現に由来する、テニスで、カウントが40-40になった状態をさす時に使われる言葉といえば何でしょう?",
+    "answers": [
+      "デュース"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1427": {
+    "question": "2016年9月に指定された、全国で33ヶ所目となる沖縄本島北部の国立公園は何でしょう?",
+    "answers": [
+      "やんばる国立公園"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1429": {
+    "question": "1989年に稼働を開始した、5つの穴から出てくるワニを付属のハンマーでたたいていくアーケードゲームは何でしょう?",
+    "answers": [
+      "ワニワニパニック"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1432": {
+    "question": "騎士道物語の読み過ぎで自分を騎士だと思い込んだ男を主人公とする、セルバンテスの小説は何でしょう?",
+    "answers": [
+      "ドン・キホーテ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1438": {
+    "question": "真珠の養殖に使われるため、別名・真珠貝という貝は何でしょう?",
+    "answers": [
+      "アコヤガイ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1457": {
+    "question": "端の丸まった部分は「袖ビーム」とも呼ばれる、道路の歩道と車道の間にあるものといえば何でしょう?",
+    "answers": [
+      "ガードレール"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1459": {
+    "question": "「立春から春分までの間に初めて吹いた風速8m以上の南風」と定義されている、春の訪れを告げるとされる風は何でしょう?",
+    "answers": [
+      "春一番"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1468": {
+    "question": "高知県の民謡『よさこい節』で、月の名所と歌われている海岸はどこでしょう?",
+    "answers": [
+      "桂浜"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1471": {
+    "question": "旧北ベトナムの政治家にちなんだ名がついている、ベトナム最大の都市は何でしょう?",
+    "answers": [
+      "ホーチミン市"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1472": {
+    "question": "その名は黒人の将軍と白人の妻を中心に展開されるシェイクスピアの作品名に由来する、「リバーシ」の別名でも知られるボードゲームは何でしょう?",
+    "answers": [
+      "オセロ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1473": {
+    "question": "南北戦争のきっかけのひとつになったとも言われている、1852年、アメリカ人のストウ夫人によって書かれた有名な小説は何でしょう?",
+    "answers": [
+      "アンクル・トムの小屋"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1478": {
+    "question": "ある植物のめしべを乾燥させて作られる、水に溶かすと鮮やかな黄色を呈するため、ブイヤベースやパエリアには欠かせない香辛料は何でしょう?",
+    "answers": [
+      "サフラン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1479": {
+    "question": "公共図書館の多くがこれにあたる、利用者が直接本棚から資料を取り出せる図書館のことを、何式図書館というでしょう?",
+    "answers": [
+      "開架式図書館"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1483": {
+    "question": "エビなどの魚介類を生きたまま食べることを特に「何食い」というでしょう?",
+    "answers": [
+      "踊り食い"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1484": {
+    "question": "「門松は冥土の旅の一里塚、めでたくもありめでたくもなし」という名言を残した大徳寺の僧侶で、現代ではとんちを使ったエピソードでよく知られているのは誰でしょう?",
+    "answers": [
+      "一休宗純"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1490": {
+    "question": "国連に加盟している国の中では最も面積が小さい、カジノやF1グランプリで知られる都市国家は何でしょう?",
+    "answers": [
+      "モナコ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1493": {
+    "question": "イタリアには、これを担保にお金を借りられる銀行がある、産地であるパルマからその名がつけられたチーズの一種といえば何でしょう?",
+    "answers": [
+      "パルミジャーノ・レッジャーノ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1494": {
+    "question": "推理小説において、自分は現場に行かず、話を聞くだけで事件の謎を解く探偵のことを何というでしょう?",
+    "answers": [
+      "安楽椅子探偵"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1496": {
+    "question": "濃厚なプリンを冷やし固め、その上にパリパリのカラメルを乗せた、スペイン・カタルーニャ地方発祥のこのスイーツといえば何でしょう?",
+    "answers": [
+      "クレマカタラーナ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1500": {
+    "question": "日本のものは先端に「梵天」と呼ばれる綿が付いた竹製のものが一般的な、体の一部分を手入れするための道具といえば何でしょう?",
+    "answers": [
+      "耳掻き"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1501": {
+    "question": "「骨組み」という意味の名前がついた、提示された単語を指定の枠に埋めるペンシルパズルは何でしょう?",
+    "answers": [
+      "スケルトン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1505": {
+    "question": "1996年に世界遺産に指定された、海の上に建つ鳥居で有名な広島県の神社は何でしょう?",
+    "answers": [
+      "厳島神社"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1520": {
+    "question": "東京女子大の初代学長で、かつての五千円札の肖像にもなった人物でもあるのは誰でしょう?",
+    "answers": [
+      "新渡戸稲造"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1534": {
+    "question": "具にカニかま、アボカド、マヨネーズなどを用いた巻きずしのことを、これの発祥地だとされるアメリカの州の名前から何というでしょう?",
+    "answers": [
+      "カリフォルニアロール"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1538": {
+    "question": "そのナンバープレートにはひらがなの「わ」か「れ」が使われる、有料で一定期間借りることができる自動車のことを何というでしょう?",
+    "answers": [
+      "レンタカー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1542": {
+    "question": "アメリカ・ペンシルバニア州のニューキャッスル市と姉妹都市提携を結んでいる、愛知県の市はどこでしょう?",
+    "answers": [
+      "新城市"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1554": {
+    "question": "サラミの中でも特に、唐辛子などのスパイスが効いた種類のことで、よくピザなどにトッピングとして乗せられているものは何でしょう?",
+    "answers": [
+      "ペパロニ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1562": {
+    "question": "植物の実を利用したものや、木製・鉄製のものがある、忍者が追っ手から逃れるために道にばらまく武器は何でしょう?",
+    "answers": [
+      "撒菱"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1578": {
+    "question": "スノーボードで、左足が前にくる姿勢をレギュラーというのに対し、右足が前にくる姿勢を何というでしょう?",
+    "answers": [
+      "グーフィー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1581": {
+    "question": "天を写す鏡のようであることから、別名を天鏡湖という、日本で4番目に面積が広い、福島県にある湖といえば何でしょう?",
+    "answers": [
+      "猪苗代湖"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1587": {
+    "question": "明智小五郎の初登場作は『D坂の殺人事件』ですが、金田一耕助の初登場作は何でしょう?",
+    "answers": [
+      "本陣殺人事件"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1588": {
+    "question": "「この日にカボチャを食べると風邪をひかない」という俗説もある、毎年12月22日頃に当たる二十四節季の一つは何でしょう?",
+    "answers": [
+      "冬至"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1590": {
+    "question": "印鑑を押す際に用いる、スポンジなどに赤い顔料を染み込ませたものを何というでしょう?",
+    "answers": [
+      "朱肉"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1607": {
+    "question": "インターネットのURLに用いられる「www」とは何という言葉の略でしょう?",
+    "answers": [
+      "World Wide Web"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1608": {
+    "question": "真ん中に漢字を入れて4つの二字熟語を作るパズルの通称にもなっている、708年から日本で鋳造されたお金は何でしょう?",
+    "answers": [
+      "和同開珎"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1613": {
+    "question": "自由民主党の初代総裁を務めた人物で、元内閣総理大臣の鳩山由紀夫の祖父にあたるのは誰でしょう?",
+    "answers": [
+      "鳩山一郎"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1622": {
+    "question": "鉄道路線のつくばエクスプレスは、つくば駅から何駅までを結んでいるでしょう?",
+    "answers": [
+      "秋葉原駅"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1625": {
+    "question": "1919年の七夕に発売されたことにちなみ、パッケージには天の川をイメージした水玉模様が描かれている、ロングセラーの乳酸菌飲料といえば何でしょう?",
+    "answers": [
+      "カルピス"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1642": {
+    "question": "「未来を過去のごとくに考えよ」「アイデアの秘訣は執念である」などの名言で知られる、日本人で初めてノーベル賞を受賞した科学者は誰でしょう?",
+    "answers": [
+      "湯川秀樹"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1644": {
+    "question": "メイプルリーフフラッグと呼ばれる国旗を使用している、オタワを首都とする国はどこでしょう?",
+    "answers": [
+      "カナダ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1646": {
+    "question": "愛犬ツンを連れた銅像で有名な、西南戦争の中心人物である幕末の志士は誰でしょう?",
+    "answers": [
+      "西郷隆盛"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1647": {
+    "question": "母方の大伯父に森鴎外を持つ、『ボッコちゃん』など多くのショートショートを書いたことで知られる日本の作家は誰でしょう?",
+    "answers": [
+      "星新一"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1648": {
+    "question": "ハロウィンの飾り物であるジャック・オ・ランタンは、どんな野菜から作られるでしょう?",
+    "answers": [
+      "カボチャ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1651": {
+    "question": "船にもいろいろありますが、七福神が乗っている船は何でしょう?",
+    "answers": [
+      "宝船"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1654": {
+    "question": "元々は「キャベツの千切り機」を指して使われていた言葉だが、現在ではプライバシーなどの漏えいを防ぐために紙を細断する装置を指すようになった言葉は何でしょう?",
+    "answers": [
+      "シュレッダー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1655": {
+    "question": "ムハンマドの生誕地であるサウジアラビアの都市で、イスラム教最大の聖地となっているのはどこでしょう?",
+    "answers": [
+      "メッカ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1656": {
+    "question": "北海道の道の花はハマナスですが、道の木は何でしょう?",
+    "answers": [
+      "エゾマツ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1658": {
+    "question": "エサと一緒に海水を飲みこんでしまうため、目から塩分を排出する習性がある動物で、その様子が誤解され「出産の時に涙を流す」というイメージで有名なのは何でしょう?",
+    "answers": [
+      "ウミガメ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1664": {
+    "question": "2015年から2018年まで、箱根駅伝を4連覇した大学はどこでしょう?",
+    "answers": [
+      "青山学院大学"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1670": {
+    "question": "日本歯科医師会などの提唱により展開されている、「80歳になっても自分の歯を20本残そう」という運動を何というでしょう?",
+    "answers": [
+      "8020運動"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1673": {
+    "question": "約1609mを1とする、アメリカなどで用いられている距離の単位は何でしょう?",
+    "answers": [
+      "マイル"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1675": {
+    "question": "ラテン語で「亜鉛の花」という意味がある、イタイイタイ病の原因物質にもなった、元素記号Cdの金属は何でしょう?",
+    "answers": [
+      "カドミウム"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1682": {
+    "question": "炎を纏わせた帯で攻撃する「龍炎舞」や、扇子を投げつける「花蝶扇」といった必殺技をもつ、格闘ゲームの『餓狼伝説』シリーズに登場するキャラクターは誰でしょう?",
+    "answers": [
+      "不知火舞"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1683": {
+    "question": "恋愛小説を書くときには、メアリー・ウェストマコットというペンネームを用いていた、「犯罪の女王」「死の公爵夫人」と呼ばれた女流推理作家は誰でしょう?",
+    "answers": [
+      "アガサ・クリスティ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1684": {
+    "question": "「私はその男の写真を三葉、見たことがある」という書き出しで始まる太宰治の小説は何でしょう?",
+    "answers": [
+      "人間失格"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1690": {
+    "question": "中国にも、これによく似た「炸板蝦」という料理が存在する、エビに衣をつけ、油で揚げた洋食の人気メニューといえば何でしょう?",
+    "answers": [
+      "エビフライ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1698": {
+    "question": "先端がある植物の葉に似ていることから名が付いた、大相撲の関取が結う髪型は何でしょう?",
+    "answers": [
+      "大銀杏"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1700": {
+    "question": "動きが緩慢なことから名付けられた、伊豆諸島と尖閣諸島のごく一部のみに棲息する特別天然記念物の鳥は何でしょう?",
+    "answers": [
+      "アホウドリ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1702": {
+    "question": "飛行機の操縦士としての体験を元に小説『夜間飛行』や童話『星の王子様』などの作品を残したフランスの作家は誰でしょう?",
+    "answers": [
+      "アントワーヌ・ド・サン=テグジュペリ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1704": {
+    "question": "居酒屋などで見られる大量の飲み物を提供するための容器のことを、野球の投手を意味する言葉と同じつづりの英語で何というでしょう?",
+    "answers": [
+      "ピッチャー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1713": {
+    "question": "代表作に『カレーの市民』や『考える人』がある、フランスの彫刻家は誰でしょう?",
+    "answers": [
+      "オーギュスト・ロダン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1720": {
+    "question": "ヒトの場合は濃度0.9%のものがそれにあたる、その動物の体液と等しい浸透圧に調製された塩化ナトリウム水溶液のことを漢字5文字で何というでしょう?",
+    "answers": [
+      "生理食塩水"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1725": {
+    "question": "略称を「BBQ」という、野外で炭などを用い、肉や野菜を焼いて食べるイベントは何でしょう?",
+    "answers": [
+      "バーベキュー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1728": {
+    "question": "「悪貨は良貨を駆逐する」という法則を、提唱したイギリス人の名から何というでしょう?",
+    "answers": [
+      "グレシャムの法則"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1729": {
+    "question": "日本の国籍法第4条で規定されている、日本に帰化する際に許可を得るべき人物といえば何大臣でしょう?",
+    "answers": [
+      "法務大臣"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1731": {
+    "question": "「この世をばわが世とぞ思ふ望月の欠けたることもなしと思へば」という歌を詠んだ平安時代の人物は誰でしょう?",
+    "answers": [
+      "藤原道長"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1734": {
+    "question": "永平寺と総持寺を本山とする、鎌倉時代に道元によって日本に伝えられた仏教の宗派は何でしょう?",
+    "answers": [
+      "曹洞宗"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1740": {
+    "question": "色ガラスを組み合わせて様々な模様を描いた、教会の窓などに用いられるゴシック建築の特徴の1つは何でしょう?",
+    "answers": [
+      "ステンドグラス"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1747": {
+    "question": "日本にあるひらがなの名前の市のうち、唯一の県庁所在地はどこでしょう?",
+    "answers": [
+      "さいたま市"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1752": {
+    "question": "その様子から「卓上の格闘技」とも呼ばれる、腕相撲によく似たスポーツのことを、何レスリングというでしょう?",
+    "answers": [
+      "アームレスリング"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1755": {
+    "question": "ある視点に基づいて選曲した音楽アルバムのことを、「編集」という意味の英語を使って何アルバムというでしょう?",
+    "answers": [
+      "コンピレーション・アルバム"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1756": {
+    "question": "CDなどをリリース前に入手することを「フラゲ」といいますが、これは何という言葉の略でしょう?",
+    "answers": [
+      "フライングゲット"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1758": {
+    "question": "かつて無声映画の時代に、映像に合わせて内容を語って説明する役職の人を何といったでしょう?",
+    "answers": [
+      "活動弁士"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1760": {
+    "question": "英語で「鹿の枝角」という意味の名前を持ち、マスコットキャラクターにも鹿を用いている、Jリーグのサッカークラブはどこでしょう?",
+    "answers": [
+      "鹿島アントラーズ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1762": {
+    "question": "後から10枚追加されたため実際には46枚ある、さまざまな場所から見た富士山を描いた葛飾北斎の代表作は何でしょう?",
+    "answers": [
+      "富嶽三十六景"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1764": {
+    "question": "電気機器が動作していることを示す小さなランプのことを「何ランプ」というでしょう?",
+    "answers": [
+      "パイロットランプ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1769": {
+    "question": "零戦の設計者として有名な日本の航空技術者で、ジブリ映画『風立ちぬ』の主人公のモデルとなったことでも知られるのは誰でしょう?",
+    "answers": [
+      "堀越二郎"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1799": {
+    "question": "2014年にアルバム『ずっと前から好きでした。』でメジャーデビューした、「ハニワ」の略称で知られるクリエイターユニットは何でしょう?",
+    "answers": [
+      "HoneyWorks"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1801": {
+    "question": "大相撲で、横綱土俵入りが終わり、幕内の取り組みに入るまでの時間のことを何というでしょう?",
+    "answers": [
+      "中入"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1803": {
+    "question": "大変な食いしん坊であり、半日以上絶食すると餓死してしまう、土を掘って生活している姿が有名なこの生き物は何でしょう?",
+    "answers": [
+      "モグラ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1804": {
+    "question": "かつての人気ドラマ『古畑任三郎』シリーズで、主人公の古畑任三郎を演じていた俳優は誰でしょう?",
+    "answers": [
+      "田村正和"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1805": {
+    "question": "代表作に『ジュラシック・パーク』『E.T.』『プライベート・ライアン』がある映画監督は誰でしょう?",
+    "answers": [
+      "スティーヴン・スピルバーグ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1806": {
+    "question": "その高さは324mである、パリのシンボルになっているタワーは何でしょう?",
+    "answers": [
+      "エッフェル塔"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1807": {
+    "question": "『日本書紀』にその様子が描かれていることから日本初のギャンブルとも言われている、サイコロをふり、ふりだしからあがりを目指す遊びといえば何でしょう?",
+    "answers": [
+      "すごろく"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1808": {
+    "question": "ジョギングなどの持久運動中にエンドルフィンが分泌されることで起こるとされる、疲れを感じなくなり快楽を得るようになる現象を何というでしょう?",
+    "answers": [
+      "ランナーズハイ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1812": {
+    "question": "スポーツやゲームで、一方の得点が他方の得点の二倍になることを特に何というでしょう?",
+    "answers": [
+      "ダブルスコア"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1817": {
+    "question": "将棋の対局を始める前に、5枚の「歩」を投げて先手・後手を決めることを何というでしょう?",
+    "answers": [
+      "振り駒"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1821": {
+    "question": "岐阜県内にある、唯一の新幹線停車駅は何でしょう?",
+    "answers": [
+      "岐阜羽島駅"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1828": {
+    "question": "調味料の塩の中でも、特に厄除けの意味で、玄関の両脇に置く塩のことを普通何というでしょう?",
+    "answers": [
+      "盛り塩"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1838": {
+    "question": "古代エジプトでは「ナイルの星」と呼ばれたという、おおいぬ座の星は何でしょう?",
+    "answers": [
+      "シリウス"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1842": {
+    "question": "スキーリゾートのドラゴンバレーで知られる韓国の郡で、2018年に冬季オリンピックが開催されたのはどこでしょう?",
+    "answers": [
+      "平昌郡"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1847": {
+    "question": "1962年に謎の死を遂げた、『お熱いのがお好き』や『七年目の浮気』などの映画に出連したアメリカの女優は誰でしょう?",
+    "answers": [
+      "マリリン・モンロー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1850": {
+    "question": "将棋の格言で「3枚あれば詰まぬことなし」と言われている駒は何でしょう?",
+    "answers": [
+      "桂馬"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1851": {
+    "question": "俗に「鳥目」とも呼ばれ、ビタミンAの不足で起こりやすくなる、暗い場所での視力が著しく衰える病気は何でしょう?",
+    "answers": [
+      "夜盲症"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1857": {
+    "question": "元々はバスク地方の衣装だったとされる、つばのない丸くて平らな帽子を何というでしょう?",
+    "answers": [
+      "ベレー帽"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1864": {
+    "question": "社会的に正しいとされる道徳観のことを、「公の秩序と善良の風俗」という言葉を略した四字熟語で何というでしょう?",
+    "answers": [
+      "公序良俗"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1866": {
+    "question": "明治時代の北海道を舞台に、アイヌが残した巨額の埋蔵金をめぐる戦いを描く、野田サトルの人気漫画は何でしょう?",
+    "answers": [
+      "ゴールデンカムイ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1879": {
+    "question": "かつての植民地に多く作られた、単一の作物を生産する大規模な農園のことを何というでしょう?",
+    "answers": [
+      "プランテーション"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1892": {
+    "question": "イタリア語では「トリプレッタ」とも呼ばれる、サッカーで1人の選手が1試合に3得点を挙げる記録を何というでしょう?",
+    "answers": [
+      "ハットトリック"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1893": {
+    "question": "『韓非子』に収められている盾と矛を売る男の逸話に由来する、つじつまが合わないことを意味する二字熟語は何でしょう?",
+    "answers": [
+      "矛盾"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1905": {
+    "question": "野球のピッチャーが、一切点を取られずに1試合を1人で投げ切って勝利することを漢字二文字で何というでしょう?",
+    "answers": [
+      "完封"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1912": {
+    "question": "海外でリリースされた音楽を「洋楽」というのに対し、日本でリリースされた音楽を漢字二文字で何というでしょう?",
+    "answers": [
+      "邦楽"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1916": {
+    "question": "休みの日に趣味で家具や犬小屋を作ったりすることを、ある曜日を使った表現で何というでしょう?",
+    "answers": [
+      "日曜大工"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1917": {
+    "question": "日本語では「馴鹿」というシカ科の動物で、サンタクロースが乗ったそりを引くことで知られるのは何でしょう?",
+    "answers": [
+      "トナカイ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1926": {
+    "question": "この柄をよく身に付けていた江戸時代の歌舞伎役者の名にちなむ、2色の正方形を交互に並べた格子模様を何というでしょう?",
+    "answers": [
+      "市松模様"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1936": {
+    "question": "横浜市にある「吉村家」がその発祥とされる、太麺にほうれん草と海苔のトッピングを特徴とする豚骨醤油ベースのラーメンの一派は何でしょう?",
+    "answers": [
+      "家系ラーメン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1944": {
+    "question": "日本有数の透明度を持つ真っ青な地底湖が有名な、日本三大鍾乳洞のひとつにも数えられる岩手県の洞窟は何でしょう?",
+    "answers": [
+      "龍泉洞"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1947": {
+    "question": "約1.8リットルを1とする、日本酒などの体積を表す時に用いる尺貫法の単位は何でしょう?",
+    "answers": [
+      "升"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1957": {
+    "question": "茹でた枝豆をすり潰した物に、砂糖と塩を加えて餡を作り、つきたての柔らかいお餅に絡めた、仙台名物といえば何でしょう?",
+    "answers": [
+      "ずんだ餅"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1963": {
+    "question": "もともとは貴金属の鑑定に使われる黒い石のことで、転じて、物や人の価値をはかる基準となるものを指す言葉は何でしょう?",
+    "answers": [
+      "試金石"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1964": {
+    "question": "滋賀県のご当地グルメ「サラダパン」に挟まれている、江戸時代の僧侶の名が付いた大根の漬物は何でしょう?",
+    "answers": [
+      "沢庵漬け"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1965": {
+    "question": "リフル、ディール、ヒンズーなどの種類がある、トランプゲームを行う前などにカードを混ぜる方法のことを何というでしょう?",
+    "answers": [
+      "シャッフル"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1970": {
+    "question": "英語ではコントロールタワーと呼ばれる、空港で離着陸する飛行機に指示を与える場所のことを何というでしょう?",
+    "answers": [
+      "管制塔"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1971": {
+    "question": "別名を「非同期症候群」という、時差のある地域に飛行機で移動した際に時間の感覚が乱れることによって起こる体の不調は何でしょう?",
+    "answers": [
+      "時差ぼけ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1991": {
+    "question": "教会の結婚式で、花嫁の父が花嫁の腕を取って花婿のところまで歩く道のことを何というでしょう?",
+    "answers": [
+      "バージンロード"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-1992": {
+    "question": "1600年に豊後に漂着した、ウィリアム・アダムスやヤン・ヨーステンらが乗船していたオランダ船の名前は何でしょう?",
+    "answers": [
+      "リーフデ号"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2003": {
+    "question": "「美味なるものには音がある」というキャッチフレーズでもおなじみの、1985年から日本ハムが製造している、粗挽きウィンナーソーセージのトップブランドは何でしょう?",
+    "answers": [
+      "シャウエッセン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2009": {
+    "question": "口を開けてびっくりした様子のモナ・リザの広告でおなじみの、新宿に本店を構える画材や文房具の専門店は何でしょう?",
+    "answers": [
+      "世界堂"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2011": {
+    "question": "キャッスル・マウンテンやレイク・ルイーズなどの見どころがある、1887年に設立されたカナダ初の国立公園は何でしょう?",
+    "answers": [
+      "バンフ国立公園"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2015": {
+    "question": "私生活では渡瀬恒彦・森進一との離婚歴がある女優で、NHK大河ドラマ『春日局』に主演したことや、バラエティ番組『SMAP×SMAP』の名物コーナー「BISTRO SMAP」の記念すべき第1回目のゲストとなったことで知られるのは誰でしょう?",
+    "answers": [
+      "大原麗子"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2020": {
+    "question": "カバヤ食品に練乳を供給する目的で設立された大日本乳業を前身とする乳製品メーカーで、ロイテリヨーグルトやジャージー牛乳プリンといった商品で知られるのは何でしょう?",
+    "answers": [
+      "オハヨー乳業"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2029": {
+    "question": "本来は立春・立夏・立秋・立冬のそれぞれの前日を指すが、主に立春の前日のことを指して使われる言葉は何でしょう?",
+    "answers": [
+      "節分"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2038": {
+    "question": "日本の省庁で「弁護士」の認定などを管轄するのは法務省ですが、「弁理士」の認定などを管轄するのはどこの省庁でしょう?",
+    "answers": [
+      "経済産業省"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2040": {
+    "question": "名作オペラを次々と作曲し「歌劇王」と称された、『椿姫』『アイーダ』などの代表作があるイタリアの作曲家は誰でしょう?",
+    "answers": [
+      "ジュゼッペ・ヴェルディ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2042": {
+    "question": "ニューヨークタイムズの「2018年ベストテレビ番組」の海外番組部門にも選出された、南極を目指す4人の少女を主人公とする日本のテレビアニメは何でしょう?",
+    "answers": [
+      "宇宙よりも遠い場所"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2051": {
+    "question": "現代では主に「炭酸カルシウム製」と「石膏製」の2種類がある、黒板に文字を書くための道具は何でしょう?",
+    "answers": [
+      "チョーク"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2054": {
+    "question": "『盗まれた手紙』『マリー・ロジェの謎』『モルグ街の殺人』の3編にのみ登場する、作家のエドガー・アラン・ポーが生み出した「世界初の名探偵」と呼ばれる人物は誰でしょう?",
+    "answers": [
+      "C・オーギュスト・デュパン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2059": {
+    "question": "レストラン「エル・ブジ」の料理長フェラン・アドリアによって開発された、食材をムースのような泡状にする調理法のことを、「泡」という意味のスペイン語で何というでしょう?",
+    "answers": [
+      "エスプーマ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2072": {
+    "question": "別名を「多聞天」という仏教における四天王の一人で、戦国大名の上杉謙信が厚く信仰していたことでも知られるのは誰でしょう?",
+    "answers": [
+      "毘沙門天"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2074": {
+    "question": "フィジーの国旗、タバコのピースのパッケージ、イトーヨーカドーのロゴマークに共通して描かれている鳥は何でしょう?",
+    "answers": [
+      "鳩"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2078": {
+    "question": "フランス語で「変形させる」という意味がある、絵画などで対象を極端に誇張したり簡略化したりすることを何というでしょう?",
+    "answers": [
+      "デフォルメ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2084": {
+    "question": "多人数で物事に対処することを、兵士の数にものをいわせる戦術にちなんで何というでしょう?",
+    "answers": [
+      "人海戦術"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2090": {
+    "question": "著書に『すべての教育は「洗脳」である』『多動力』『刑務所なう。』などがある、「ホリエモン」の愛称で知られる実業家は誰でしょう?",
+    "answers": [
+      "堀江貴文"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2093": {
+    "question": "梅の刻印が入った梅ヶ枝餅が名物となっている、菅原道真をまつった福岡県の神社は何でしょう?",
+    "answers": [
+      "太宰府天満宮"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2099": {
+    "question": "ここから流れ出した川がチグリス・ユーフラテス川の源になっているという伝説もある、『旧約聖書』でアダムとイブが住んでいた理想郷を何というでしょう?",
+    "answers": [
+      "エデンの園"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2109": {
+    "question": "「トレパック」「花のワルツ」「金平糖の精の踊り」などの曲が有名な、ある木の実を割る道具をモチーフにしたチャイコフスキーのバレエは何でしょう?",
+    "answers": [
+      "くるみ割り人形"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2117": {
+    "question": "著書『パンセ』の中で、「人間は考える葦である」という有名な言葉を残したフランスの哲学者は誰でしょう?",
+    "answers": [
+      "ブレーズ・パスカル"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2118": {
+    "question": "兵庫県の姫路市周辺がその生産地として有名な、火をつけるための道具といえば何でしょう?",
+    "answers": [
+      "マッチ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2124": {
+    "question": "英語では「キャロット・アンド・スティック」という、支配者が一方では甘やかしながら一方では厳しく対応することを意味する言葉は何でしょう?",
+    "answers": [
+      "飴と鞭"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2129": {
+    "question": "オリコン1位を獲得したシングル曲で、『Free&Easy』を歌ったのは浜崎あゆみですが、『夏のFree&Easy』を歌ったアーティストは誰でしょう?",
+    "answers": [
+      "乃木坂46"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2130": {
+    "question": "明治天皇が汽船「明治丸」に乗って東北から横浜港に帰ってきたことにちなんでいる、1996年から施行されている国民の祝日は何でしょう?",
+    "answers": [
+      "海の日"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2145": {
+    "question": "「梅田の停車場を下りるや否や自分は母からいいつけられた通り、すぐ俥を雇って岡田の家に馳けさせた。」という書き出しで始まる、『彼岸過迄』『こゝろ』とともに夏目漱石の後期三部作をなしている小説は何でしょう?",
+    "answers": [
+      "行人"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2148": {
+    "question": "父に翻訳家の瑞人を持ち、代表作に第130回芥川賞を受賞した『蛇にピアス』がある小説家は誰でしょう?",
+    "answers": [
+      "金原ひとみ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2156": {
+    "question": "ニュース番組の天気予報で、雨の予報を表現する際に用いられる、雨の日には欠かせない道具は何でしょう?",
+    "answers": [
+      "傘"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2161": {
+    "question": "テレビ局の「NHK」とは、何という言葉の頭文字をとったものでしょう?",
+    "answers": [
+      "日本放送協会"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2185": {
+    "question": "日本の大学の寮で、吉田寮、熊野寮といえば、どこの大学にある寮でしょう?",
+    "answers": [
+      "京都大学"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2193": {
+    "question": "出版社の光文社によって商標登録されている、年齢を重ねても美しさを保ち続けている女性のことを、魔法を使っているかのように美しい様から何というでしょう?",
+    "answers": [
+      "美魔女"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2198": {
+    "question": "司会者として知られる関口宏、古館伊知郎、徳光和夫に共通する出身大学はどこでしょう?",
+    "answers": [
+      "立教大学"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2199": {
+    "question": "かつては「男の子は黒、女の子は赤」といったイメージがあったものの現在では色のバリエーションも豊かになった、小学生が通学のときに背負うカバンといえば何でしょう?",
+    "answers": [
+      "ランドセル"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2205": {
+    "question": "1618年のベーメンの反乱から始まり1648年のウェストファリア条約の締結で終結した一連の戦争のことを、その年数から一般に何戦争というでしょう?",
+    "answers": [
+      "三十年戦争"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2209": {
+    "question": "ラテン語では「アーリア・ヤクタ・エスト」という、カエサルがルビコン川を渡る際に言ったとされる有名な言葉は何でしょう?",
+    "answers": [
+      "賽は投げられた"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2218": {
+    "question": "「英検」の正式名称は実用英語技能検定ですが、「漢検」の正式名称は何でしょう?",
+    "answers": [
+      "日本漢字能力検定"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2234": {
+    "question": "毎年12月に「今年の漢字」が発表される京都のお寺はどこでしょう?",
+    "answers": [
+      "清水寺"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2254": {
+    "question": "力士のうち、「関取」と呼ばれるのはどの階級以上の人でしょう?",
+    "answers": [
+      "十両"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2265": {
+    "question": "元々これにビスケット状の石突をつけたものが「きのこの山」として作られていた、イチゴチョコとミルクチョコの2層構造で円錐形が特徴的な明治のチョコレート菓子は何でしょう?",
+    "answers": [
+      "アポロ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2266": {
+    "question": "日本農林規格で、そうめんとうどんの間の太さと定義されている麺類は何でしょう?",
+    "answers": [
+      "ひやむぎ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2269": {
+    "question": "TOHOシネマズなどの多くの映画館で、女性がお得に利用できる「レディースデー」となっているのは毎週何曜日でしょう?",
+    "answers": [
+      "水曜日"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2274": {
+    "question": "リオグランデ川やミシシッピ川の河口があるのは、何という湾でしょう?",
+    "answers": [
+      "メキシコ湾"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2285": {
+    "question": "乱切りにしたサツマイモを油で揚げ、糖蜜をからませて黒ゴマをまぶした食ベ物を何というでしょう?",
+    "answers": [
+      "大学芋"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2289": {
+    "question": "人間の染色体にちなんでその名前がつけられた、リクルートが発行している結婚情報誌は何でしょう?",
+    "answers": [
+      "ゼクシィ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2298": {
+    "question": "大豆から豆乳を絞った際に残った搾りかすのことを、特に何というでしょう?",
+    "answers": [
+      "おから"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2300": {
+    "question": "テニスプレイヤーの大坂なおみの出身都道府県はどこでしょう?",
+    "answers": [
+      "大阪府"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2316": {
+    "question": "フェンシング、水泳、馬術、レーザーランの4競技を連続で行う、オリンピックの正式競技にもなっているスポーツは何でしょう?",
+    "answers": [
+      "近代五種競技"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2318": {
+    "question": "選手を治療したり、選手に代わって棄権の意思を表明したりする、ボクシングにおける介添人を何というでしょう?",
+    "answers": [
+      "セコンド"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2323": {
+    "question": "明治時代に来日したお雇い外国人のひとりで、フォッサ・マグナを発見したことや日本にかつて生息していたゾウに名前を残すことで知られるドイツの学者は誰でしょう?",
+    "answers": [
+      "ハインリッヒ・エドムント・ナウマン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2350": {
+    "question": "阪急やオリックスで活躍した星野伸之の現役時代のニックネームであった、サン=テグジュペリの代表作である小説は何でしょう?",
+    "answers": [
+      "星の王子さま"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2353": {
+    "question": "1993年に日本初の世界自然遺産に認定された2つとは、屋久島と何でしょう?",
+    "answers": [
+      "白神山地"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2360": {
+    "question": "佐藤栄作の後継者として首相の座を争った三木武夫、田中角栄、大平正芳、福田赳夫の4人のことを、政治家・重宗雄三は漢字四文字でまとめて何と呼んだでしょう?",
+    "answers": [
+      "三角大福"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2361": {
+    "question": "東京大学の赤門に対して「白門」と称され、俳優の阿部寛、元プロ野球選手の阿部慎之助らの出身大学でもある東京都の私立大学は何でしょう?",
+    "answers": [
+      "中央大学"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2362": {
+    "question": "若乃花・貴乃花兄弟による優勝決定戦、地下鉄サリン事件、阪神・淡路大震災といえば、いずれも西暦何年の出来事でしょう?",
+    "answers": [
+      "1995年"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2364": {
+    "question": "ギターを弾く人はギタリストといいますが、ドラムを叩く人は何というでしょう?",
+    "answers": [
+      "ドラマー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2377": {
+    "question": "シドニーオリンピックから正式競技に採用された、その過酷さから「鉄人レース」とも呼ばれる競技は何でしょう?",
+    "answers": [
+      "トライアスロン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2379": {
+    "question": "ズバリ、もっとも大きいタコの種類は何でしょう?",
+    "answers": [
+      "ミズダコ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2385": {
+    "question": "「泣いて馬謖を斬る」の故事で、諸葛孔明が馬謖を処刑したのは、何という戦いの結果を受けたからでしょう?",
+    "answers": [
+      "街亭の戦い"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2391": {
+    "question": "2019年公開の映画『ドラえもん のび太の月面探査記』で、脚本を担当した作家は誰でしょう?",
+    "answers": [
+      "辻村深月"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2511": {
+    "question": "美術業界では「トビカン」の略称で呼ばれている、上野公園にある美術館は何でしょう?",
+    "answers": [
+      "東京都美術館"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2513": {
+    "question": "アメリカの巨大IT企業をあらわす言葉で、「FAANG」には含まれるが「GAFA」には含まれていない企業は何でしょう?",
+    "answers": [
+      "Netflix"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2526": {
+    "question": "2019年のラグビーW杯で活躍した日本代表の福岡堅樹と松島幸太朗の爆発力を高級スポーツカーに例えた表現は「ダブル・何」でしょう?",
+    "answers": [
+      "フェラーリ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2531": {
+    "question": "2019年の日本プロ野球で、ベイスターズのスペンサー・パットンがジャイアンツ戦で降板を命じられた後、殴りつけて拳を負傷する原因となった家電製品は何でしょう?",
+    "answers": [
+      "冷蔵庫"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2546": {
+    "question": "サンフランシスコ・ジャイアンツは野球のチームですが、ニューヨーク・ジャイアンツはどんなスポーツのチームでしょう?",
+    "answers": [
+      "アメリカンフットボール"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2554": {
+    "question": "ブドウの品種「デラウェア」の由来となった都市・デラウェアは、アメリカの何州にあるでしょう?",
+    "answers": [
+      "オハイオ州"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2578": {
+    "question": "林子平が『三国通覧図説』を刊行した時の日本の元号は何でしょう?",
+    "answers": [
+      "天明"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2579": {
+    "question": "故事成語の「蛇足」「虎の威を借る狐」「隗より始めよ」に共通する、出典となった中国の書物は何でしょう?",
+    "answers": [
+      "戦国策"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20CAPR-2594": {
+    "question": "東京都葛飾区白鳥3丁目22−9という住所の場所から見えるコンビニエンスストアは何でしょう?",
+    "answers": [
+      "ローソン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1002": {
+    "question": "豚肉とほうれん草、白菜などを用いた、毎晩のように食べてもあきないことから名付けられた鍋料理は何?",
+    "answers": [
+      "常夜鍋"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1004": {
+    "question": "英語の「ミスター」にあたる、スペイン語の男性に対する敬称は何?",
+    "answers": [
+      "セニョール"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1007": {
+    "question": "歓迎のジャンプや、「シュカ」と呼ばれる赤い衣装も知られている、「草原の貴族」の異名もある、アフリカのケニア南部からタンザニア北部にかけて住む民族は何?",
+    "answers": [
+      "マサイ族"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1012": {
+    "question": "キャッチフレーズは「科学をあなたのポケットに」。ガガーリンの名言「地球は青かった」にちなんだ名前を持つ、講談社の新書シリーズは何?",
+    "answers": [
+      "ブルーバックス"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1015": {
+    "question": "日露戦争では連合艦隊司令長官となり、日本海海戦でロシアのバルチック艦隊を破った、明治・大正期の軍人は誰?",
+    "answers": [
+      "東郷平八郎"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1016": {
+    "question": "オーストラリアの航空会社・カンタス航空のシンボルマークのデザインになっている、有袋類の動物は何?",
+    "answers": [
+      "カンガルー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1017": {
+    "question": "第一段は、「昔、男、初冠して」で始まる、125段からなる、在原業平と思われる男の生涯を描いた歌物語は何?",
+    "answers": [
+      "伊勢物語"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1020": {
+    "question": "鈴木英哉、中川敬輔、田原健一、桜井和寿からなる、『innocent world』や『Tomorrow never knows』などのヒット曲があるロックバンドは何?",
+    "answers": [
+      "Mr.Children"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1024": {
+    "question": "釧路の「和商市場」の名物で、市場内で色々な海産物を少しずつ買い、ご飯を盛った丼にのせて作るオリジナル海鮮丼は何?",
+    "answers": [
+      "勝手丼"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1025": {
+    "question": "「太陽のピラミッド」「月のピラミッド」「ケツァルコアトルの神殿」などの遺跡が残る、メキシコ中部のアステカ文明の遺跡は何?",
+    "answers": [
+      "テオティワカン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1037": {
+    "question": "新技術などを開発して新しい事業に取り組む企業のことを、「冒険」という意味の英語を使って何という?",
+    "answers": [
+      "ベンチャー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1040": {
+    "question": "マタドールやマルガリータなどのカクテルのベースになる、リュウゼツランから作られるメキシコの蒸留酒は何?",
+    "answers": [
+      "テキーラ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1049": {
+    "question": "宮本武蔵が五輪書を書いた場所として知られる、熊本県熊本市にある洞窟は何?",
+    "answers": [
+      "霊巌洞"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1055": {
+    "question": "長い触角を角にたとえて、英語では「ロングホーンドビートル」と呼ばれる昆虫は何?",
+    "answers": [
+      "カミキリムシ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1061": {
+    "question": "ブリと交配することもあり、生まれた個体をヒラブリやブリマサと呼ぶ魚は何?",
+    "answers": [
+      "ヒラマサ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1064": {
+    "question": "18世紀にイキリスで始まった、同じ土地で1年ごとにコムギ、カブ、オオムギ、クローバーを輪作し生産量を高める農法を、これが広まった州の名前から何という?",
+    "answers": [
+      "ノーフォーク農法"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1075": {
+    "question": "見た目から「小パンダ」や「アカパンダ」という別名を持つ動物は何?",
+    "answers": [
+      "レッサーパンダ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1085": {
+    "question": "大阪市に本社を置き、日本で唯一、信託部門を併営する銀行はどこ?",
+    "answers": [
+      "りそな銀行"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1086": {
+    "question": "フィレンツェのウフィツィ美術館に所蔵されている、中央で貝殻の上に立つ女神の姿を描いたボッティチェリの絵画は何?",
+    "answers": [
+      "ヴィーナスの誕生"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1087": {
+    "question": "中国地方にある架空の町を舞台に、ハチベエ、ハカセ、モーちゃんの仲良しトリオが活躍する、那須正幹の児童文学シリーズは何?",
+    "answers": [
+      "ズッコケ三人組"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1093": {
+    "question": "「鍔迫り合いに強く、苦労しながら接戦をものにする」という意味で名づけられた、ある鳥をモチーフにした東京ヤクルトスワローズのマスコットキャラクターは何?",
+    "answers": [
+      "つば九郎"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1104": {
+    "question": "たとえば「地球上にアリは何匹いるか」というような、正確な数の把握が困難な問題をいくつかの手掛かりから推定する方法を、イタリアの物理学者にちなんで何という?",
+    "answers": [
+      "フェルミ推定"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1120": {
+    "question": "「沸騰させて」「火を弱める」という意味がある、魚介類や野菜を煮てサフランで色と香りをつけた、南フランス・マルセイユの郷土料理でもあるスープは何?",
+    "answers": [
+      "ブイヤベース"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1125": {
+    "question": "2001年1月から1クール放送された、木村拓哉が検事・久利生公平を演じた、フジテレビの月9ドラマは何?",
+    "answers": [
+      "HERO"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1130": {
+    "question": "マーク・ボランやデビッド・ボウイなどに代表される、1970年代にイギリスで流行した、中性的なスタイルを特徴とするロックのジャンルは何?",
+    "answers": [
+      "グラムロック"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1136": {
+    "question": "現代の「世界三大ギタリスト」と称されるのはデレク・トラックス、ジョン・フルシアンテと誰?",
+    "answers": [
+      "ジョン・メイヤー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1137": {
+    "question": "商売や学問の神として祀られる、人の体に片方の牙が折れた象の頭を持つ姿で知られるヒンズー教の神様は何?",
+    "answers": [
+      "ガネーシャ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1138": {
+    "question": "キリスト教の復活祭で使われることから「イースターリリー」とも呼ばれる、ある武器の名前が付いたユリの仲間は何?",
+    "answers": [
+      "テッポウユリ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1142": {
+    "question": "アメリカが最多18回の優勝を誇る、ITF・国際テニス連盟が主催する女子テニスの国別対抗戦は何?",
+    "answers": [
+      "フェドカップ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1144": {
+    "question": "ギリシャの世界遺産で、複数の奇妙な形をした岩と、その上に建てられた修道院の総称は何?",
+    "answers": [
+      "メテオラ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1147": {
+    "question": "折りたたみ式の把手がついたものが多い、キャンプや登山などで使う鍋型の調理器具をドイツ語で何という?",
+    "answers": [
+      "コッヘル"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1156": {
+    "question": "ヴェルディのオペラ『リゴレット』や『椿姫』などの初演がなされた、イタリア語で「不死鳥」という意味がある、ヴェネツィアの劇場は何?",
+    "answers": [
+      "フェニーチェ劇場"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1166": {
+    "question": "黒船サスケ八ナ号やペリーロ-ドなどの名所があり、毎年5月には黒船祭が開催される、静岡県の伊豆半島南部にある都市はどこ?",
+    "answers": [
+      "下田市"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1176": {
+    "question": "東城綾や西野つかさなどのヒロインと主人公・真中淳平との関係を描いた、河下水希のラブコメ漫画は何?",
+    "answers": [
+      "いちご100%"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1191": {
+    "question": "日本の旧国で名前に「馬」とつくのは対馬国とどこ?",
+    "answers": [
+      "但馬国"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1201": {
+    "question": "相撲で、力士が土俵脇で取組の前に口をすすぐ、清めの水のことを何という?",
+    "answers": [
+      "力水"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1204": {
+    "question": "見た目はトンボに似た昆虫で、幼虫のときの呼び名をアリジゴクというのは何?",
+    "answers": [
+      "ウスバカゲロウ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1209": {
+    "question": "アメリカの1ドル紙幣の裏側や、アメリカの国章の裏側に描かれている、ピラミッドの上に目玉が描かれた、キリスト教に関連する図柄を何という?",
+    "answers": [
+      "プロビデンスの目"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1212": {
+    "question": "要領は18リットルという角型のスチール缶のことを、尺貫法の容積の単位を使って何という?",
+    "answers": [
+      "一斗缶"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1216": {
+    "question": "イスラム法で合法なものを指す言葉で、特にムスリムが食べることができる料理や食材のことを何という?",
+    "answers": [
+      "ハラール"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1220": {
+    "question": "英語名のレガーンがニワトリの品種レグホンの名前の由来となった、イタリア・トスカーナ州の都市はどこ?",
+    "answers": [
+      "リヴォルノ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1225": {
+    "question": "イタリアのトリノで生まれたという、スープの付け合わせやワインのおつまみとしてもおなじみのスティック状のパンは何?",
+    "answers": [
+      "グリッシーニ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1227": {
+    "question": "ベンチに横たわって、胸の上でバーベルの上げ下げを行い大胸筋などを鍛えるトレーニングを何という?",
+    "answers": [
+      "ベンチプレス"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1230": {
+    "question": "1872年にアメリカの新聞編集者によって提案された、タイプライターの文字配列を、左上のキーに並んだアルファベット6文字から何という?",
+    "answers": [
+      "QWERTY配列"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1233": {
+    "question": "1184年に起こった、佐々木高綱と梶原影季の先陣争いで有名な源平の合戦のひとつは何?",
+    "answers": [
+      "宇治川の戦い"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1234": {
+    "question": "1927年、日本の気象観測史上、最深積雪量である1182cmを記録した、岐阜・滋賀の県境にある標高1377mの山といえばどこ?",
+    "answers": [
+      "伊吹山"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1238": {
+    "question": "元はオランダで医療器具などとして用いられていたもので、江戸時代に平賀源内が再現した、摩擦によって静電気を発生させる装置を何という?",
+    "answers": [
+      "エレキテル"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1244": {
+    "question": "第二次大戦後、ソ連からの引き揚げ船が入港する舞鶴で帰らぬ息子を待ち続けた実在の女性をモデルに、二葉百合子らが歌ってヒットした曲は何?",
+    "answers": [
+      "岸壁の母"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1247": {
+    "question": "ソープ、フルーツ、ベジタブルに共通してつく「彫刻」という意味の英語は何?",
+    "answers": [
+      "カービング"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1253": {
+    "question": "家を大規模に建物を改造し、新たな機能を持たせるための改修のことで、英語で「刷新」や「修復」という意味がある言葉は何?",
+    "answers": [
+      "リノベーション"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1254": {
+    "question": "2009年に「最も登場キャラクターの多いアニメシリーズ」としてギネス世界記録に認定された幼児向けアニメは何?",
+    "answers": [
+      "それいけ!アンパンマン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1265": {
+    "question": "サッカー・Jリーグのクラブ、大宮アルディージャの「アルディージャ」という名前の由来である動物は何?",
+    "answers": [
+      "リス"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1267": {
+    "question": "名物「ゼリーフライ」や「十万石まんじゅう」が有名な、古くから足袋の生産が盛んな埼玉県北部の都市はどこ?",
+    "answers": [
+      "行田市"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1269": {
+    "question": "バンジージャンプの元になったといわれる、バヌアツ共和国のペンテコステ島の成人への通過儀礼を何という?",
+    "answers": [
+      "ナゴール"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1270": {
+    "question": "上方置換と下方置換のうち、塩化水素のような水に溶けやすく、空気より重い気体を集めるときに使う手法はどっち?",
+    "answers": [
+      "下方置換"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1271": {
+    "question": "文学や美術などにおいて、他の作り手の作風やモチーフなどを表面的にのみ引用し表現することを、「模倣」という意味のフランス語で何という?",
+    "answers": [
+      "パスティーシュ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1273": {
+    "question": "森村桂の旅行記『天国に一番近い島』に描かれた、ヌーメアを中心都市とする、南太平洋に浮かぶフランス領の島はどこ?",
+    "answers": [
+      "ニューカレドニア"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1274": {
+    "question": "文化人類学者の川喜田二郎が考案した、収集したデータをカードに書き、グループ化してまとめ手法を何という?",
+    "answers": [
+      "KJ法"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1276": {
+    "question": "200%を超えていれば健全とされる、保険会社の支払い余力を示す指標を何比率という?",
+    "answers": [
+      "ソルベンシー・マージン比率"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1280": {
+    "question": "東京・丸の内のほか名古屋と福岡で展開されている、日本郵便が運営する商業施設は何?",
+    "answers": [
+      "KITTE"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1282": {
+    "question": "陸奥宗光や高浜虚子などの墓があることでも知られる、鎌倉五山第三位の寺は何?",
+    "answers": [
+      "寿福寺"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1294": {
+    "question": "第二次世界大戦末期にフィリピン戦線でアメリカ軍の捕虜になった体験をまとめた、大岡昇平の連作小説は何?",
+    "answers": [
+      "俘虜記"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1298": {
+    "question": "元は牧羊犬で、長年、イギリス王室で飼われていることでも知られる、ピンと立った耳と胴長短足の体が特徴的な犬の品種は何?",
+    "answers": [
+      "ウェルシュ・コーギー・ペンブローク"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1300": {
+    "question": "かつてのNHKの番組『爆笑オンエアバトル』で、女性ピン芸人として初めてオンエアされたという記録をもつ、「春風こえむ」の高座名も持つ女性お笑いタレントは誰?",
+    "answers": [
+      "にしおかすみこ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1305": {
+    "question": "1815、サクソニア、ツァイトヴェルクなどのモデルを展開するドイツの高級時計メーカーはどこ?",
+    "answers": [
+      "ランゲ・アンド・ゾーネ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1310": {
+    "question": "ユダヤ教では「シナゴーグ」、キリスト教では「チャーチ」にあたるものを、イスラム教では何という?",
+    "answers": [
+      "モスク"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1315": {
+    "question": "14世紀に、アフリカ北部や東ヨーロッパから中国までを訪れ、『三大陸周遊記』という旅行記を残したモロッコの旅行家は誰?",
+    "answers": [
+      "イブン・バットゥータ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1321": {
+    "question": "2006年にリリースされ、オリコンシングルチャートに65週登場した、AKB48のメジャーデビュー曲は何?",
+    "answers": [
+      "会いたかった"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1324": {
+    "question": "ギリシャ語で「時間」と「記す」を意味する2つの単語を組み合わせた造語で、時計とストップウォッチの機能を併せ持つアナログ腕時計のことを何という?",
+    "answers": [
+      "クロノグラフ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1338": {
+    "question": "五十音のあ行からわ行までの10の行のうち、88星座の頭文字に使われていないのは何行?",
+    "answers": [
+      "な行"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1339": {
+    "question": "かつて吸入用の麻酔薬として用いられた無色の液体で、トリハロメタンの一種である化学式CHCl3の物質は何?",
+    "answers": [
+      "クロロホルム"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1341": {
+    "question": "プーシキンの小説『大尉の娘』の題材でもある、1773年から1775年にかけてロシアで起こった大規模な農民反乱は何?",
+    "answers": [
+      "プガチョフの乱"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1345": {
+    "question": "名前がアナグラムで「内閣変えた」となる元総理大臣は誰?",
+    "answers": [
+      "田中角栄"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1346": {
+    "question": "「近代細菌学の開祖」と呼ばれる、コレラ菌や結核菌を発見したドイツ人細菌学者は誰?",
+    "answers": [
+      "ロベルト・コッホ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1355": {
+    "question": "寒さで口がガタガタ震えるなどの、身震いによって体温調節をする現象を医学用語で何という?",
+    "answers": [
+      "シバリング"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1358": {
+    "question": "別名を「二尖弁」ともいう、心臓の左心房と左心室の間にある弁のことを何という?",
+    "answers": [
+      "僧帽弁"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1359": {
+    "question": "古代中国、後漢時代の薬物学書『神農本草経』に延命の霊薬として紹介されている、マンネンタケ科のキノコは何?",
+    "answers": [
+      "霊芝"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1360": {
+    "question": "野口英世が本名の「清作」から改名するきっかけとなった、放蕩者の医学生・野々口精作が登場する、坪内逍遙の小説は何?",
+    "answers": [
+      "当世書生気質"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1372": {
+    "question": "日本有数のシジミの産地として知られる、青森県の津軽半島の日本海岸にある汽水湖は何?",
+    "answers": [
+      "十三湖"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1373": {
+    "question": "2018年公開、ラミ・マレックが主人公のフレディ・マーキュリーを演じた、イギリスのバンド・クイーンをテーマにした映画は何?",
+    "answers": [
+      "ボヘミアン・ラプソディ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1374": {
+    "question": "鳥海山のふもとに点在する100ほどの小山が田園地帯に浮かんでいるような風景「九十九島」が見られる、秋田県のひらがな名の都市はどこ?",
+    "answers": [
+      "にかほ市"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1378": {
+    "question": "一般的にカップと対になっている、コーヒーカップなどを置く受け皿のことを何という?",
+    "answers": [
+      "ソーサー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1390": {
+    "question": "日本では夕刊紙などでみられる、一般的な新聞紙の半分の大きさのものを何という?",
+    "answers": [
+      "タブロイド"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1391": {
+    "question": "教会の窓などにみられる、表面に顔料を焼き付けたり色ガラスを組み合わせるなどの手法で様々な模様を描いた板ガラスのことを何という?",
+    "answers": [
+      "ステンドグラス"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1393": {
+    "question": "1989年に連載が始まった漫画『スイートスポット』で、流行語「オヤジギャル」という言葉を生んだ、本名を小林幸子という漫画家は誰?",
+    "answers": [
+      "中尊寺ゆつこ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1394": {
+    "question": "マーク・トウェインの小説『トム・ソーヤの冒険』の舞台となっている、アメリカ最長の川はどこ?",
+    "answers": [
+      "ミシシッピ川"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1400": {
+    "question": "英語で「光線」と「綿」を意味する言葉を組み合わせた造語で、絹の代用品としてセルロースから作られた繊維は何?",
+    "answers": [
+      "レーヨン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1410": {
+    "question": "イタリア語では「ヴェスパ」、スペイン語では「アヴィスパ」、英語では「ホーネット」という攻撃的なハチの種類は何?",
+    "answers": [
+      "スズメバチ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1415": {
+    "question": "退任時期が近づくなどの理由で政治的な影響力を失った大統領や首相のことを、「足が不自由なアヒル」という意味の英語で何という?",
+    "answers": [
+      "レームダック"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1417": {
+    "question": "1980年代から1990年代に流行した、主に集団で行う、ユーロビートのリズムに合わせて腕や手首を繰り返し動かす単純な振り付けのダンスは何?",
+    "answers": [
+      "パラパラ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1422": {
+    "question": "「容器に閉じ込めた液体の一部に圧力を加えると、その圧力は液体の各部分に同じ大きさで伝わる」という原理を、発見者の名前をとって「何のの原理」という?",
+    "answers": [
+      "パスカルの原理"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1428": {
+    "question": "別名を「ホモロサイン図法」という、高緯度地域はモルワイデ図法、低緯度地域はサンソン図法で描く地図の図法を、考案したアメリカの地理学者の名前をとって何図法という?",
+    "answers": [
+      "グード図法"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1434": {
+    "question": "副題を「現象学的存在論の試み」という、実存主義の原典とされるフランスの哲学者・サルトルの著書は何?",
+    "answers": [
+      "存在と無"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1450": {
+    "question": "死者をミイラにするという役割がる、頭はジャッカルやイヌ、体は人間の姿をしたエジプト神話の冥界の神は誰?",
+    "answers": [
+      "アヌビス"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1454": {
+    "question": "古戦場で知られる賤ヶ岳を隔てて琵琶湖の北に位置する、滋賀県で2番目に大きい湖は何?",
+    "answers": [
+      "余呉湖"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1461": {
+    "question": "紀元前15世紀にナイル川からユーフラテス川に至る大帝国を築いた、「古代エジプトのナポレオン」の異名を持つ、古代エジプト第18王朝の王は誰?",
+    "answers": [
+      "トトメス3世"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1474": {
+    "question": "「アッキーナ」の愛称でおなじみの、よゐこの濱口優を夫に持つタレントは誰?",
+    "answers": [
+      "南明奈"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1482": {
+    "question": "ソバージュヘアに肩パッドというバブル時代の女性に扮し、当時のあるあるネタを披露する、ワタナベエンターテインメント所属の女性お笑い芸人は誰?",
+    "answers": [
+      "平野ノラ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1484": {
+    "question": "太宰治と親しく、彼の命日を「桜桃忌」と名付けた、同じ津軽出身の直木賞作家は誰?",
+    "answers": [
+      "今官一"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1492": {
+    "question": "父が山口県と山形県の長官を務めていたことから「山」という漢字を2つ重ねた名前がつけられた、『広辞苑』の編纂を手掛けた言語学者は誰?",
+    "answers": [
+      "新村出"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1494": {
+    "question": "人が亡くなった日から四十九日間のことを指す、仏教において死者が次の世に生まれ変わるまでの期間を何という?",
+    "answers": [
+      "中陰"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1504": {
+    "question": "「SSA」などと略されることもある、さいたま市中央区にある日本最大級の多目的ホールは何?",
+    "answers": [
+      "さいたまスーパーアリーナ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1505": {
+    "question": "紀元前3世紀ごろにエジプトのファロス島に建造されたと伝えられる、世界の七不思議のひとつは何?",
+    "answers": [
+      "アレクサンドリアの大灯台"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1512": {
+    "question": "薩摩藩主・島津重豪が築いた暦の観測を行う施設が名前の由来という、鹿児島市中心部に位置する繁華街といえばどこ?",
+    "answers": [
+      "天文館"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1513": {
+    "question": "1802年に当時のアメリカ大統領トマス・ジェファーソンによって設立された、アメリカ陸軍士官学校の、所在地からついた通称は何?",
+    "answers": [
+      "ウェストポイント"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1516": {
+    "question": "苦行をしても悟りが得られぬとして断食を取りやめた釈迦に、乳粥を与えて命を助けたとされる娘の名前は何?",
+    "answers": [
+      "スジャータ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1517": {
+    "question": "アメリカのアイダホ州・モンタナ州・ワイオミング州にまたがる、世界遺産にもなっている世界最古の国立公園は何?",
+    "answers": [
+      "イエローストーン国立公園"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1518": {
+    "question": "個人として、もっとも多くアカデミー賞を受賞しているのは誰?",
+    "answers": [
+      "ウォルト・ディズニー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1520": {
+    "question": "エスプレッソに、ミルクを蒸気で温め泡立てたものを入れたコーヒーを何という?",
+    "answers": [
+      "カプチーノ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1521": {
+    "question": "エレベーターのボタンでは「M2」となっている、建物の1階と2階の間にあるフロアを何という?",
+    "answers": [
+      "中二階"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1524": {
+    "question": "毒をもつことから、お墓を荒らす動物が近付かないように墓地の周りなどによく植えられている、秋に赤い花をつける別名「マンジュシャゲ」などともいう植物は何?",
+    "answers": [
+      "ヒガンバナ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1534": {
+    "question": "漢字1文字で「秘」と表される南米の国はどこ?",
+    "answers": [
+      "ペルー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1539": {
+    "question": "ボクシングで、グローブやヘッドギアなどを着用し実戦と同じスタイルで行う練習方法を何という?",
+    "answers": [
+      "スパーリング"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1543": {
+    "question": "ひもを用いずに簡単に履いたり脱いだりできることから、「なまけもの」という意味の名前を持つ靴は何?",
+    "answers": [
+      "ローファー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1552": {
+    "question": "著書『モーツァルト全作品目録』で、モーツァルトの作品を時系列に並べたオーストリアの音楽史家は誰?",
+    "answers": [
+      "ルートヴィヒ・フォン・ケッヘル"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1558": {
+    "question": "1955年にインドネシアのバンドンで開催され、反植民地主義や人種や国家間の平等などの「平和十原則」を決議した会議は何?",
+    "answers": [
+      "アジア・アフリカ会議"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1562": {
+    "question": "日本三景と称される景勝地のうち、『小倉百人一首』の歌に歌われているのはどれ?",
+    "answers": [
+      "天橋立"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1570": {
+    "question": "1976年のアルバム『シルク・ディグリーズ』に収められているAORの名曲『ウィ・アー・オール・アローン』を歌ったのは誰?",
+    "answers": [
+      "ボズ・スキャッグス"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1572": {
+    "question": "人生で大きな失敗を経験した人を「先生」として招き、問題点や教訓を授業で学ぶという内容の、テレビ朝日の番組は何?",
+    "answers": [
+      "しくじり先生 俺みたいになるな!!"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1575": {
+    "question": "アメリカのラシュモア山に顔が彫られている4人の大統領のうち、唯一ドル紙幣の肖像に描かれていないのは誰?",
+    "answers": [
+      "セオドア・ルーズベルト"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1580": {
+    "question": "世界最大のヒゲクジラはシロナガスクジラですが、世界に広く分布している世界最大のハクジラは何?",
+    "answers": [
+      "マッコウクジラ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1582": {
+    "question": "アメリカ国防総省の通称をその建物の形状から何という?",
+    "answers": [
+      "ペンタゴン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1587": {
+    "question": "シャーロット・ケイト・フォックスが外国人として初めてヒロインを務めた、NHK連続テレビ小説の作品は何?",
+    "answers": [
+      "マッサン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1592": {
+    "question": "森の中のお菓子の家に住む魔女が登場する、グリム童話は何?",
+    "answers": [
+      "ヘンゼルとグレーテル"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1593": {
+    "question": "ルイ・ヴィトンやイヴ・サンローランのマークのように、複数の文字を組み合わせてデザインした模様を何という?",
+    "answers": [
+      "モノグラム"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1594": {
+    "question": "息を吹き込むことで、肺活量などの肺機能を検査する医療器具を英語で何という?",
+    "answers": [
+      "スパイロメーター"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1595": {
+    "question": "小麦の表皮や胚芽を取り除かずに、そのまま粉にした小麦粉のことを何という?",
+    "answers": [
+      "全粒粉"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1600": {
+    "question": "兵隊として赴いた海外の地でお坊さんになり、戦争で死んだ人々の供養をする水島を主人公とする竹山道雄の小説は何?",
+    "answers": [
+      "ビルマの竪琴"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1603": {
+    "question": "第一次世界大戦後に連合国が結んだ講和条約で、オーストリアとはサン=ジェルマン条約ですが、ブルガリアとは何条約?",
+    "answers": [
+      "ヌイイ条約"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1604": {
+    "question": "右手に剣、左手に経典が書かれた巻物を持つ像が多く、普賢菩薩とともに釈迦如来の脇に控える、智慧を司っている菩薩といえば何?",
+    "answers": [
+      "文殊菩薩"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1610": {
+    "question": "香りの主成分はシオネールという有機化合物で、月桂樹の葉を乾燥させたハーブをフランス語で何という?",
+    "answers": [
+      "ローリエ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1612": {
+    "question": "ゆでて裏ごししたジャガイモに塩コショウや牛乳、バターなどで味つけした、メインディッシュの付け合わせなどに使われる料理は何?",
+    "answers": [
+      "マッシュポテト"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1620": {
+    "question": "1095年にクレルモン公会議を開いて十字軍の遠征を呼びかけたローマ教皇は誰?",
+    "answers": [
+      "ウルバヌス2世"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1623": {
+    "question": "世界の気象に大きく影響するとされる、数年に一度、インド洋の海面水温が東部で異常低下、西部で異常上昇する現象を何という?",
+    "answers": [
+      "ダイポールモード現象"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1627": {
+    "question": "1884年にウェッブ夫妻らによって設立された、古代ローマの将軍に由来する名を持つ、社会福祉の充実を目的とした社会主義団体は何?",
+    "answers": [
+      "フェビアン協会"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1630": {
+    "question": "イスラム教徒がメッカのカーバ神殿の方を向いて1日に5回行う礼拝のことを、アラビア語で何という?",
+    "answers": [
+      "サラート"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1631": {
+    "question": "音楽CDやDVDのデータをデジタルデータに変換してパソコンに取り込むことを英語で何という?",
+    "answers": [
+      "リッピング"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1642": {
+    "question": "マラソン、登山、サイクリングなど長時間の運動の途中で、肝臓や筋肉に蓄えられたグリコーゲンが消費し尽くされて体が思うように動かなくなる現象を何という?",
+    "answers": [
+      "ハンガーノック"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1644": {
+    "question": "芸能界やスポーツ界などで、新人が初めて登場することを、フランス語で何という?",
+    "answers": [
+      "デビュー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1648": {
+    "question": "シェイクスピアの戯曲『オセロ』で、イアーゴーの陰謀に乗せらた将軍オセロが浮気を疑って殺す妻の名前は何?",
+    "answers": [
+      "デズデモーナ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1649": {
+    "question": "のり巻きの「鉄砲巻き」の具材に使われる食材は何?",
+    "answers": [
+      "かんぴょう"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1657": {
+    "question": "「インカパープル」「インカのひとみ」「インカのめざめ」といえば、何の野菜の品種?",
+    "answers": [
+      "ジャガイモ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1660": {
+    "question": "「ストラドル」や「オーダピッキングトラック」などの種類がある、車体前方にあるつめをパレットに差し込んで、荷物を運搬する自動車は何?",
+    "answers": [
+      "フォークリフト"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1669": {
+    "question": "イギリスの有名な童謡の中で、「木と土で作ろう」「鉄の棒で作ろう」などと歌われる建造物は何?",
+    "answers": [
+      "ロンドン橋"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1677": {
+    "question": "突発的に起こる局地的な大雨のことを、奇襲攻撃やかくらんを行う戦闘小部隊にたとえて何という?",
+    "answers": [
+      "ゲリラ豪雨"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1678": {
+    "question": "人間の目で、黒目が小さく上方に偏り、白目の部分が大きいことを、数字を使って何という?",
+    "answers": [
+      "三白眼"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1686": {
+    "question": "野球で、現役時代の栗山英樹のように右打席でも左打席でもバッティングを行えるバッターを何という?",
+    "answers": [
+      "スイッチヒッター"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1689": {
+    "question": "アクテージ、ベンザ、アリナミンなどの商品を展開する、日本の製薬会社はどこ?",
+    "answers": [
+      "武田薬品工業"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1692": {
+    "question": "冠婚葬祭の「冠」にあたる、奈良時代以降に行われた、かつての男子の成人の儀式を何という?",
+    "answers": [
+      "元服"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1717": {
+    "question": "ディスコやダンスホールの天井に吊り下げられている、一面に小さな鏡を貼り付けた玉のことを何という?",
+    "answers": [
+      "ミラーボール"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1718": {
+    "question": "『モナリザの微笑』などの曲で知られるグループサウンズのザ・タイガースで、「サリー」と呼ばれたのは誰?",
+    "answers": [
+      "岸部一徳"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1721": {
+    "question": "ロートレックのポスターに多く使われる、水と油の反発作用を利用し印刷する版画の技法を何という?",
+    "answers": [
+      "リトグラフ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1722": {
+    "question": "ドレスなどに縫い付ける、金属やプラスチックでできた光を反射させるための小さな飾りのことを何という?",
+    "answers": [
+      "スパンコール"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1728": {
+    "question": "英語で「アストロノミー」という、地球の外で起こる自然現象を研究する学問は何?",
+    "answers": [
+      "天文学"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1729": {
+    "question": "ディーン・ケーメンらによって発明され、2003年から一般販売されている、体重を移動することで運転できる電動立ち乗り二輪車は何?",
+    "answers": [
+      "セグウェイ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1730": {
+    "question": "ドッグスターというバンドでベーシストとしても活動していた、『スピード』『マトリックス』などの映画作品で主演を務めた俳優は誰?",
+    "answers": [
+      "キアヌ・リーブス"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1731": {
+    "question": "10月10日が「目の愛護デー」とされるのは、10という数字を目と何に見立てていることに由来する?",
+    "answers": [
+      "眉毛"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1736": {
+    "question": "「天をめぐらし戦局を逆転させる」という意味で名付けられた、旧日本海軍が第二次大戦中に用いた、人間が操縦する魚雷は何?",
+    "answers": [
+      "回天"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1741": {
+    "question": "1953年に朝鮮戦争の休戦会談が行われた、北緯38度線の南5キロにある、韓国と北朝鮮の連絡会議が開かれている地区は何?",
+    "answers": [
+      "板門店"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1743": {
+    "question": "頑固者を指した言葉。津軽は「じょっぱり」、肥後は「もっこす」といいますが、土佐は何という?",
+    "answers": [
+      "いごっそう"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1744": {
+    "question": "代表作に『あずまんが大王』や『よつばと!』がある漫画家は誰?",
+    "answers": [
+      "あずまきよひこ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1752": {
+    "question": "CDやレコードなどを、内容を知らずして、カバーに惹かれて購入することを俗に何という?",
+    "answers": [
+      "ジャケ買い"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1754": {
+    "question": "スパイシー種とアールス種を交配して作られた、鮮やかなオレンジ色の果肉で、カロチンをたっぷり含む、北海道の特産品のメロンは何?",
+    "answers": [
+      "夕張メロン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1761": {
+    "question": "1953年の衆議院解散のことを、衆院予算委員会での答弁中の吉田茂首相の発言から何という?",
+    "answers": [
+      "バカヤロー解散"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1764": {
+    "question": "2002年に始まった、ピン芸人日本一を決定する、吉本興業主催のお笑いコンクールといえば何?",
+    "answers": [
+      "R-1ぐらんぷり"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1770": {
+    "question": "1880年にスイスのマリニャックが発見した、原子番号64番、元素記号Gdの金属元素は何?",
+    "answers": [
+      "ガドリニウム"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1773": {
+    "question": "ライフルの弾丸が通る筒の部分をイメージさせる形をしていることから、古いイタリア語で「ライフル」という意味の名前をもつ、螺旋状のショートパスタの一種は何?",
+    "answers": [
+      "フジッリ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1774": {
+    "question": "江戸時代の五街道。日本橋を出て、東海道の最初の宿場は品川宿ですが、中山道の最初の宿場はどこ?",
+    "answers": [
+      "板橋宿"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1776": {
+    "question": "今宮やすらい祭、太秦の牛祭とともに「京都三大奇祭」と呼ばれる、京都市左京区の鞍馬寺で毎年10月に行われる祭は何?",
+    "answers": [
+      "鞍馬の火祭"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1782": {
+    "question": "青えんどうを煮てつぶし、砂糖を加えて作った緑色の餡を、ある鳥の名前を使って何という?",
+    "answers": [
+      "うぐいす餡"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1785": {
+    "question": "古代ギリシャの数学者の名前がついた「ヘロンの公式」とは、三角形の三辺の長さから三角形の何を求める公式?",
+    "answers": [
+      "面積"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1786": {
+    "question": "帯広市を中心に広がる、北海道南東部の平野は何平野?",
+    "answers": [
+      "十勝平野"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1788": {
+    "question": "かさが開いている「香信」、開ききっていない「どんこ」などに分けられる日本でもっとも栽培量の多いキノコは何?",
+    "answers": [
+      "シイタケ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1790": {
+    "question": "自動車や電気冷蔵庫に取り付けられている、霜を取るための装置のことを何という?",
+    "answers": [
+      "デフロスター"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1796": {
+    "question": "富士山の頂上に太陽が重なる瞬間の光景を、ある宝石に例えて何という?",
+    "answers": [
+      "ダイヤモンド富士"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1800": {
+    "question": "作家・田辺聖子の半生を題材にした、2006年放送のNHK連続テレビ小説で、藤山直美が最年長でヒロインを演じ話題となったのは何?",
+    "answers": [
+      "芋たこなんきん"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1803": {
+    "question": "叔父公爵に追放された令嬢・ロザリンドらを中心に展開される、原題を『As You Like It』というシェイクスピアの戯曲は何?",
+    "answers": [
+      "お気に召すまま"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1804": {
+    "question": "孤独な殺し屋に愛される少女マチルダをナタリー・ポートマンが演じた、リュック・ベッソン監督の映画は何?",
+    "answers": [
+      "レオン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1808": {
+    "question": "決して的を外さず、敵を打ち倒した後はひとりでに持ち主のもとに戻るとされる、北欧神話で最高神オーディンが持つ槍は何?",
+    "answers": [
+      "グングニル"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1815": {
+    "question": "ギリシャ語で「宝庫」という意味を持つ、同義語・類義語などを分類・整理した語彙集を何という?",
+    "answers": [
+      "シソーラス"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1820": {
+    "question": "家計や企業の経済活動を元に、おもに価格の決まり方を分析することから、価格理論とも呼ばれるのは何経済学?",
+    "answers": [
+      "ミクロ経済学"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1830": {
+    "question": "熱を発していることが明らかになっている、17世紀にカッシーニが発見した木星の巨大な渦のことを何という?",
+    "answers": [
+      "大赤斑"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1835": {
+    "question": "理科の実験で使われる、左右の腕の長さが等しいさおの両端に皿が設けられた、重さをためるための天秤を何という?",
+    "answers": [
+      "上皿天秤"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1836": {
+    "question": "長野県松本市と岐阜県高山市にまたがる火山で、山頂には東京大学宇宙線研究所と自然科学研究機構の観測所があるのは何?",
+    "answers": [
+      "乗鞍岳"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1847": {
+    "question": "その土地で取れた農産物や水産物を、その土地で消費しようとする運動のことを、漢字4文字で何という?",
+    "answers": [
+      "地産地消"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1850": {
+    "question": "標高4399mと、ロッキー山脈最高峰である、アメリカ、コロラド州にある山は何?",
+    "answers": [
+      "エルバート山"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1852": {
+    "question": "「チャイニーズグーズベリー」という別名がある、ニュージーランドの国の鳥に似ていることから名前がついた、マタタビ科の果物は何?",
+    "answers": [
+      "キウイフルーツ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1862": {
+    "question": "便秘や火傷に効果があるといわれ 「医者いらず」とも呼ばれる、ススキノキ科の多肉植物は何?",
+    "answers": [
+      "アロエ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1867": {
+    "question": "子役時代の三浦春馬と生田斗真がドラマデビューを果たした、1997年に放送されたNHK連続テレビ小説の作品は何?",
+    "answers": [
+      "あぐり"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1871": {
+    "question": "『コロブチカ』や『ジェンカ』などの楽曲を使って踊る、日本ではレクリエーションで行われることの多い民族舞踊のことを何という?",
+    "answers": [
+      "フォークダンス"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1873": {
+    "question": "「ある朝目覚めると、自身の体が巨大な毒虫になっていた」という青年を主人公とする、カフカの短編小説は何?",
+    "answers": [
+      "変身"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1878": {
+    "question": "北極に対する南極、上海に対するブエノスアイレスのように、地球上のある地点に対してちょうど裏側に位置する場所のことを何という?",
+    "answers": [
+      "対蹠地"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1880": {
+    "question": "幕末から明治にかけて活躍した佐賀藩士で、日本赤十字社を創設したのは誰?",
+    "answers": [
+      "佐野常民"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1892": {
+    "question": "フランス語で「ふくらんだ」という意味がある、メレンゲに様々な材料を加えてオーブンで焼き上げるお菓子を何という?",
+    "answers": [
+      "スフレ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1896": {
+    "question": "1887年に博愛社から名前を変える形で設立された、災害救護や医療活動などを行う認可法人は何?",
+    "answers": [
+      "日本赤十字社"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1906": {
+    "question": "空気銃にコルクの弾を詰めて、人形・おもちゃなどを的にして撃つ、縁日でおなじみの遊びは何?",
+    "answers": [
+      "射的"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1912": {
+    "question": "アレルギーの原因物質のことを「アレルゲン」といいますが、ストレスの原因物質を何という?",
+    "answers": [
+      "ストレッサー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1917": {
+    "question": "バイオリンなどの弦楽器の演奏法で、弓を使わずに指で弦をはじくものを何という?",
+    "answers": [
+      "ピッツィカート"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1922": {
+    "question": "鎌倉時代の終わりから室町時代の初期にかけて、幕府や荘園領主に楯突いた武装集団のことを何という?",
+    "answers": [
+      "悪党"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1928": {
+    "question": "マンゴーやマンゴスチンとともに「世界三大美果」にも数えられる、濃厚な甘みがあるバンレイシ科の果物は何?",
+    "answers": [
+      "チェリモヤ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1931": {
+    "question": "ドラムセットの中央に置かれる、裏に響線と呼ばれる弦が張られた小型の太鼓を何という?",
+    "answers": [
+      "スネアドラム"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1932": {
+    "question": "東京都中央区の地名に由来する、魚介類や海苔を、醤油・みりん・砂糖で濃い味に煮しめた食べものとは何?",
+    "answers": [
+      "佃煮"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1940": {
+    "question": "海野つなみの漫画『逃げるは恥だが役に立つ』。このタイトルは、もともとどこの国のことわざからつけられたもの?",
+    "answers": [
+      "ハンガリー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1941": {
+    "question": "千葉県市川市にある中山法華経寺の参道の名物である、皮をつけたままの里芋を蒸した料理は何?",
+    "answers": [
+      "きぬかつぎ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1942": {
+    "question": "運動会の飾りつけなどに使われる、世界各国の国旗を集めたものを何という?",
+    "answers": [
+      "万国旗"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1950": {
+    "question": "記号「T」で表される、10の12乗を1とする単位を表す接頭語は何?",
+    "answers": [
+      "テラ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1954": {
+    "question": "マッシュポテト、フライドポテト、スイートポテトのうち、さつまいもで作るお菓子はどれ?",
+    "answers": [
+      "スイートポテト"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1957": {
+    "question": "カリフォルニア出身で『カリフォルニア・ガールズ』『キス・ア・ガール』などのヒット曲がある女性歌手は誰?",
+    "answers": [
+      "ケイティ・ペリー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1960": {
+    "question": "「辛い混ぜたもの」という意味がある、クローブ・カルダモン・シナモンなどを主な原料にしたインドの香辛料は何?",
+    "answers": [
+      "ガラムマサラ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1961": {
+    "question": "1月7日に邪気を払うために食べられる、セリやナズナなどの七草を入れて作られる料理は何?",
+    "answers": [
+      "七草がゆ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1964": {
+    "question": "本名のファーストネームはエルネストである、キューバ革命ではカストロとともに中心となって行動した、アルゼンチン生まれの革命家は誰?",
+    "answers": [
+      "チェ・ゲバラ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1966": {
+    "question": "江戸時代初期に起きた「島原・天草一揆」で、17歳でありながらキリシタンの軍勢を率いたのは誰?",
+    "answers": [
+      "天草四郎"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1972": {
+    "question": "タンザニア北東部に位置する、標高5895mのアフリカ大陸の最高峰は何?",
+    "answers": [
+      "キリマンジャロ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1974": {
+    "question": "小説『牧師館の殺人』で初登場した、アガサ・クリスティが生み出したおばあさんの名探偵は誰?",
+    "answers": [
+      "ミス・マープル"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1978": {
+    "question": "トイレットペーパーや自動車のナンバープレートなどに使われている、紙や金属などの表面に凹凸を加える加工を何という?",
+    "answers": [
+      "エンボス"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1979": {
+    "question": "江戸時代に大坂の大長寺で起こった事件を脚色して作られた、紙屋の治兵衛と遊女の小春を主人公とした、近松門左衛門の浄瑠璃は何?",
+    "answers": [
+      "心中天網島"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1984": {
+    "question": "スポンジケーキに杏ジャムを塗り、チョコレートでコーティングした、オーストリアの宰相・メッテルニヒの料理人が考案したというお菓子は何?",
+    "answers": [
+      "ザッハトルテ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1985": {
+    "question": "「えたいの知れない不吉な塊が私の心を始終圧えつけていた」という書き出しで始まる、梶井基次郎の短編小説は何?",
+    "answers": [
+      "檸檬"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1986": {
+    "question": "1000種類以上もの植物を命名し、「日本の植物学の父」とも称される植物学者は誰?",
+    "answers": [
+      "牧野富太郎"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1987": {
+    "question": "キリスト教で洗礼を行う際に悪魔祓いをする祈祷師のことで、ウィリアム・フリードキンが監督したホラー映画のタイトルにもなっているのは何?",
+    "answers": [
+      "エクソシスト"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1990": {
+    "question": "主にオーストラリアに分布する、小型のカンガルーを総称して何という?",
+    "answers": [
+      "ワラビー"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1992": {
+    "question": "ジョージやサトルなどの人形とともに、声が遅れて聞こえてくる芸などの「ボイス・イリュージョン」を見せる腹話術師は誰?",
+    "answers": [
+      "いっこく堂"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1994": {
+    "question": "ラグビートップリーグのサントリーサンゴリアスと東芝ブレイブルーパスが本拠地をおく、東京都の都市はどこ?",
+    "answers": [
+      "府中市"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1997": {
+    "question": "小川洋子の短編『薬指の標本』を原作とした同名の映画でデビューし、007シリーズ『慰めの報酬』ではボンドガールを演じた女優は誰?",
+    "answers": [
+      "オルガ・キュリレンコ"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  },
+  "jqara_QA20QBIK-1999": {
+    "question": "「核の冬」という現象を提唱した科学者のひとりで、映画化もされた小説『コンタクト』を発表するなどSF作家としての顔も持つのは誰?",
+    "answers": [
+      "カール・セーガン"
+    ],
+    "source": "hotchpotch/JQaRA (test)"
+  }
+}

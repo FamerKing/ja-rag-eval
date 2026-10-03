@@ -1,78 +1,61 @@
-"""JQaRA の passage をデータベースに投入する（把段落装进数据库）。
+"""JQaRA の passage を DB に投入する（v2：按 split 装入）。
 
-今天只装「被检索的段落」。
-问题和正解是 Day 4 的事，会存成 eval/ 下的 JSON 文件。
-
-设计要点：幂等（idempotent / 冪等）——
-同一个脚本跑两次，结果和跑一次一样，不会产生重复数据。
+使い方：
+  uv run python scripts/ingest.py dev
+  uv run python scripts/ingest.py test
 """
 
-import os
+import sys
 
 import psycopg
 from datasets import load_dataset
-from dotenv import load_dotenv
 
-load_dotenv()  # .env から PG_DSN を読む
-DSN = os.environ.get("PG_DSN", "postgresql://postgres:postgres@localhost:5432/ragdb")
+from ja_rag_eval.config import JQARA, PG_DSN, pick_qids
 
-# W1 は軽く始める。300 問ぶんの候補だけを入れる。
-# None にすると dev 全件（1,737 問）。W2 で増やす。
-N_QUESTIONS = 300
-
-SOURCE = "jqara-dev (wikipedia-utils c400-jawiki-20230403)"
+SOURCE = "jqara (wikipedia-utils c400-jawiki-20230403)"
 LICENSE = "Wikipedia 由来: CC BY-SA 4.0 / GFDL ・ 設問: JAQKET CC BY-SA 4.0"
 
 
-def main() -> None:
-    ds = load_dataset("hotchpotch/JQaRA", split="dev")
+def main(split: str) -> None:
+    ds = load_dataset(JQARA, split=split)
 
-    # 1. 対象の質問を決める（件数を絞ってから中身を触ると速い）
-    all_qids = sorted(set(ds["q_id"]))
-    keep = set(all_qids if N_QUESTIONS is None else all_qids[:N_QUESTIONS])
+    # 1. 用哪些题，交给 config.py 决定（这里不再写数字）
+    keep = set(pick_qids(split, ds["q_id"]))
     sub = ds.filter(lambda r: r["q_id"] in keep)
-    print(f"対象: {len(keep)} 問 / {len(sub)} 行")
+    print(f"[{split}] 対象: {len(keep)} 問 / {len(sub)} 行")
 
-    # 2. 同じ passage が複数の質問の候補に出てくるので、重複を除く
-    #    キーは passage_row_id。これがそのまま chunk_id になる。
-    passages: dict[str, tuple[str, str]] = {}  # chunk_id -> (title, text)
+    # 2. 同一个 passage 可能是多道题的候选 → 按 passage_row_id 去重
+    passages: dict[str, tuple[str, str]] = {}      # chunk_id -> (title, text)
     for pid, title, text in zip(sub["passage_row_id"], sub["title"], sub["text"]):
         passages.setdefault(str(pid), (title, text))
-    print(f"ユニークな passage: {len(passages)} 件")
+    titles = sorted({t for t, _ in passages.values()})
+    print(f"ユニークな passage: {len(passages)} 件 / 記事: {len(titles)} 件")
 
-    # 3. 記事（documents）は title 単位でまとめる
-    titles = sorted({title for title, _ in passages.values()})
-
-    with psycopg.connect(DSN) as conn:
+    with psycopg.connect(PG_DSN) as conn:
         with conn.cursor() as cur:
             cur.executemany(
                 """
                 INSERT INTO documents (doc_id, title, source, license, url)
                 VALUES (%s, %s, %s, %s, %s)
-                ON CONFLICT (doc_id) DO UPDATE
-                  SET source = EXCLUDED.source, license = EXCLUDED.license
+                ON CONFLICT (doc_id) DO NOTHING
                 """,
-                [
-                    (t, t, SOURCE, LICENSE, f"https://ja.wikipedia.org/wiki/{t}")
-                    for t in titles
-                ],
+                [(t, t, SOURCE, LICENSE, f"https://ja.wikipedia.org/wiki/{t}")
+                 for t in titles],
             )
             cur.executemany(
                 """
-                INSERT INTO chunks (chunk_id, doc_id, ord, content, n_chars)
-                VALUES (%s, %s, NULL, %s, %s)
+                INSERT INTO chunks (chunk_id, doc_id, ord, content, n_chars, split)
+                VALUES (%s, %s, NULL, %s, %s, %s)
                 ON CONFLICT (chunk_id) DO UPDATE
-                  SET content = EXCLUDED.content
+                  SET content = EXCLUDED.content, split = EXCLUDED.split
                 """,
-                [
-                    (cid, title, text, len(text))
-                    for cid, (title, text) in passages.items()
-                ],
+                [(cid, title, text, len(text), split)
+                 for cid, (title, text) in passages.items()],
             )
-        conn.commit()  # 全部成功してから確定させる
+        conn.commit()
 
-    print(f"documents {len(titles)} 件 / chunks {len(passages)} 件を投入しました")
+    print(f"[{split}] chunks {len(passages)} 件を投入しました")
 
 
 if __name__ == "__main__":
-    main()
+    main(sys.argv[1] if len(sys.argv) > 1 else "test")

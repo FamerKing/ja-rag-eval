@@ -12,3 +12,7 @@ data/interim/
 
 # macOS
 .DS_Store
+backups/
+
+# 教程（不公开）
+教程/
